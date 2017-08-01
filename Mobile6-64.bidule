@@ -136,7 +136,7 @@
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1227885035" type="com.plogue.BinaryOperator" displayName="+" processingMode="process">
 				<Geometry x="156.5" y="-42.5" w="0" h="0"/>
@@ -1603,7 +1603,7 @@
 			<Gui state="normal" hidden="true" generic="true">
 				<Geometry x="2" y="73" w="402" h="430"/>
 			</Gui>
-			<Presets uSize="15356" checkSum="2064">eJztm1Fv2jAUhfc6fkXklz6RxA5QQEkq7aESEmzVqkl7tRKvjZbYKAmD/vuZtEKjmjHprjw23TxBsHN8D8d2PgXim11Vej9E3RRKJoT6IfGEzFReyIeELO4/DafT8WxIyU06iD8U+aYUd7VoRNt4uqNs5rumSMhj267nQbDdbv1t5Kv6IWBhSIOvq+V99igqPixk03KZCeLp9nOpPvJKNGueiefPlyrj7X4AV0cS/q7Jr7z2aS0SQtLB+/j5vFfkCdHjlPoiCXk5R4lXC54rWT4lRKp9c92e17pNK+quy/CaeJtG1KtCdv2713ynqyZeqbLvIr9V9Wcuc1Ul5BsvGz3catN2I7vlWatq3c2nJKVxcLjy73SYQYf11An98LRSaBAKewiRdHVahIKIfFmcVjF51k/lJTinpSJXX88YKG8WmQmAdWfVQ015A3eOmkIHbB2FiN15FUGljlqVRo68g1pOQ5/R2SScWuSmrgxkppgDG8hMIQefTgxqR7J7Z4o5tHemRY+Nx31rshflLHqRo+hFpuhFPp2wfb3AdTkLYOQogJFplQXfOSLTbQS8d6ZJBe2daeeA987dzJ258W4Ecc9/lncjqO3J6t3ItDpAe2daG9626mkH9UHZsah+10HIK16lB15dLBFWEVZdw6p1EiKsIqyCw6pdCWH1D9Hub8NqfwMRVg867Lqn0swZq9rvrZFVkVWRVS+PVe1KyKpvV/pnWfUsTGW/YipDTEVMxWeqiKn/O6biM1XEVMRUxFTEVMRUxFTEVMTUC8fU6NWvf0dIqkiqSKpIqkiqSKpIqkiqSKpIqkiqvZSQVJFUkVQBSDUOjv7Fmg7eXebxE547Fh0=</Presets>
+			<Presets uSize="14080" checkSum="2061">eJztm0Fv2jAUx3cdnyLypSeS2AkUUJJKO1RCgm1aValXK/HaaImN4jDot59JKzSqGRNmeXR6OYXEzt/vz/OzfwokN9u68n6yRpaCpwj7IfIYz0VR8scUze++DCeT0XSI0U02SD6VxbpiXxsmWSs91ZHL2VaWKXpq29UsCDabjb+JfNE8BiQMcfCwXNzlT6ymw5LLlvKcIU+1n3HxmdZMrmjOXu4vRE7b3QCuDiT8rSyuvPZ5xVKEssHH5OW6VxYpUuPk6iEper2GkdcwWghePaeIi11z1Z42qk3Lmq7L8Bp5a8maZcm7/t053aqokVeJ/AcrbkXzjfJC1Cn6Tiuphluv225ktzRvRaO6+RhlOAn2T/6TDtHokJ46oR8eVwo1QmEPIZQtj4tgKyL38+MqOs/6qbwmznGpyNXXM7KUbwaZsQXrTooH23IOG5ViN9ZhWyUh9AmejsOJQW7iykCiKw2WDSS66mB9MhFbVdXsnS7NbXunm7hkNOobkzkoZ6kXOUq9SJd6kY/HZBev5bicJWDkKAEjXZW1vnJEuqXQvne6SWXbO93KYd87dzN36sa72Ma+9STvYlvLk9G7WFcdbHunqw3nVT3loDowORRVn7qN9Bvmwnvmmi8AuAC4XAOXcRICcJ2tBMD1l3jyr4Grv4EAXHsdct1TaeqMt8z7Q+At4C3grcvjLbMS8Nb5Su+Wt05CLfI7ahFALUAteLf1PlAL3m0BagFqAWoBagFqAWoBagFqXThqRW9+SRgDbQFtAW0BbQFtAW0BbQFtAW39h7RlVgLaAtoC2rJAW0lw8K+ubPDhco5fTGiANw==</Presets>
 			<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
 			<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -3176,10 +3176,10 @@
 				<Parameter id="125" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="126" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="127" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJwBtgNJ/ENFR1CfFwAAeJztWFuv2jgQfq+0/yHKU/vQxLfYSXXYioVSIZWeo0KlvlUmuJxonYQmDqX763eScAnnNE2WlXqRmAewx9+MPZ/NmPHNy12sra3K8ihNBjZ2kG29/POPJzfDLJJzuVWNsQBz29pk6aoIzXQMCoQCG7AWyM1cGRMl69z6XEgdma8wbFu5yZSMQT2wKbGtWO7mlWaodRrO/hrYxAOXs+l4eluYWbpSlZUsTBpLA5POdWoGNmqqtNoqPbCjBHwXsUqMbeloq2pjQObhwGbUKxtSS1Bh67mlykU5eaj36hHYqWxgczBY63Qp9aJIqmWCwj2GBLNb0apSJjIu/WPHuisyZY3uo41LhuiD++6u/LKeFomO4sio1TPbWsrk7+lqT1CDQF8ACeG9TJIyhOcQ6ibVNVPmNP9m+TGTyVrtEQY6edkuCdx3ABWnoYHtOcbMGegKs1d8+ahlDtSxw/5UAQ2L3SGerdRFiXVQwIJSfB+JAAl8ir8ymckoeWDTCsEnt20Q0g2h3RDWDfG6IbwbIrohfjck6IZg1APTg1/cg2Dcg2Hcg2LczvGdzGTccWxOmEZcDqVIIJ97RFAmPO61GvEejhvEOz7hQuBAMI9TL/B5qxE5+3Ug4QuGsCewzwPfQ6TdrkGrwwlBTKAyFuoHxG+36hMHZT1ArA/VrHFcHQ/RgMIivSDgArF2K/6IElplDE4wE5S223k9lsR77aTfBxT0OWyo15FEuA+Knh1dQnzKOEOCYcr8dlowJZfsQoDb6VzIbK3M/pYK09i50+m6UE55iztvJrdOkasMNS+DymxU5HCvjqWR1r35ugFbT3jAYh79A21W3inH2wtoU8kqknVzBTbQOMik/iL77jg4johq7NLPq1zlKhfLgyzh1mniPycO/MMSx1WucpWfL5cnjkUWrdcqm0PJrZJQZT1SB6OMHlIH8RqZg3wrc+B6hZO91H1RtelITIKzOEaITr4by41bVvmPKn787Yp/Ph273POx9fTtYj76pSp90lnpY1RX+lwQLBh7WFpdK/1rpf9/Kv2LqvgfWqH/+uXab508X336pELTfDQ9ZKs6zmG8jMqoOrLm8fn19fvpwZEMTbRV09NzcNV/deznSsPUarWQy7J/tiGZypWZqaSwovyAN1UUj/7wwoDagdpAO1lrBQvNc0jM0twP7NEL9z38F87d2y+JytzhZlNug/surR643dqNW7px6zlz94F798yvI6G3a8TrQsDly7t7eHqHzr/wTXtJ2GTqRQ==</CustomData>
+				<CustomData name="VSTChunk">eJwBtgNJ/ENFR1CfFwAAeJztWFuv2jgQfq+0/yHKU/vQxLfYSXXYioVSIZWeo0KlvlUmuJxonYQmDqX763eScAnnNE2WlXqRmAewx9+MPZ/NmPHNy12sra3K8ihNBjZ2kG29/POPJzfDLJJzuVWNsQBz29pk6aoIzXQMCoQCG7AWyM1cGRMl69z6XEgdma8wbFu5yZSMQT2wKbGtWO7mlWaodRrO/hrYxAOXs+l4eluYWbpSlZUsTBpLA5POdWoGNmqqtNoqPbCjBHwXsUqMbeloq2pjQObhwGaUlw2pJaiw9dxS5aKcPNR79QjsVDawORisdbqUelEk1TJB4R5DgtmtaFUpExmX/rFj3RWZskb30cYlQ/TBfXdXfllPi0RHcWTU6pltLWXy93S1J6hBoC+AhPBeJkkZwnMIdZPqmilzmn+z/JjJZK32CAOdvGyXBO47gIrT0MD2HGPmHugKs1d8+ahlDtSxw/5UAQ2L3SGerdRFiXVQwIJSfB+JAAl8ir8ymckoeWDTCsEnt20Q0g2h3RDWDfG6IbwbIrohfjck6IZg1APTg1/cg2Dcg2Hcg2LczvGdzGTccWxOmEZcDqVIIJ97RFAmvPJQtxjxHo4bxDs+4ULgQDCPUy/weasROft1IOELhrAnsM8D30Ok3a5Bq8MJQUygMhbqB8Rvt+oTB2U9QKwP1axxXB0P0YDCIr0g4AKxdiv+iBJaZQxOMBOUttt5PZbEe+2k3wcU9DlsqNeRRLgPip4dXUJ8yjhDgmHK/HZaMCWX7EKA2+lcyGytzP6WCtPYudPpulBOeYs7bya3TpGrDDUvg8psVORwr46lkda9+boBW094wGIe/QNtiKVxewFtKllFsm6uwAYaB5nUX2TfHQfHEVGNXfp5latc5WJ5kCXcOk3858SBf1jiuMpVrvLz5fLEscii9Vplcyi5VRKqrEfqYJTRQ+ogXiNzkG9lDlyvcLKXui+qNh2JSXAWxwjRyXdjuXHLKv9RxY+/XfHPp2OXez62nr5dzEe/VKVPOit9jOpKnwuCBWMPS6trpX+t9P9PpX9RFf9DK/Rfv1z7rZPnq0+fVGiaj6aHbFXHOYyXURlVR9Y8Pr++fj89OJKhibZqenoOrvqvjv1caZharRZyWfbPNiRTuTIzlRRWlB/wpori0R9eGFA7UBtoJ2utYKF5DolZmvuBPXrhvof/wrl7+yVRmTvcbMptcN+l1QO3W7txSzduPWfuPnDvnvl1JPR2jXhdCLh8eXcPT+/Q+RckIXtNCunZLQ==</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">950</CustomData>
-				<CustomData name="VSTChunkSum">-1613</CustomData>
+				<CustomData name="VSTChunkSum">1577</CustomData>
 			</Bidule>
 			<BiduleGroup id="UID_1279724772" displayName="bamboo OSC extract 03" zoom="0.85" type="com.plogue.groups.bamboo OSC extract 03" processingMode="mute" author="music" version="1.0">
 				<Geometry x="-271.476" y="107.553" w="0" h="0"/>
@@ -5813,10 +5813,10 @@
 				<Parameter id="537" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="538" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="539" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJxLEGFAARVzkhMYGtmqWdzYZL4J/DnQ1+jI4BHPcInn2+s7km/vs7xj2GTvcJR1QVbAl9uHDTx0r5emV5+d8dnBlO+bwZzHVQf5Wgzfur7g5RVlvbw6vPKmtLT07fOzNDmPncj6lDc78SiPC8OEnwsXhr8NeFu2wdloPuPVNQzWLVZsv7eYmK2o72Cen19yU2C1GEvY+qjUbt89Hsdk05bbauU17J5tdeDAuzeSctUlPbPSDC7xW/W+8VPYwch7mG3H7PPzPm5MPlBg7vLvzUzjbc2e81o7L7IpyjMc4TpQ8oFHVbb+T0DC9tLTYtECx3iC/zAsEZ9vY5n2iJ33xM+sE4xnJeoKbuhr3ug2v1PAGHDnkIHlL3H5j9tNP/5yLpuzJz9gW3rR803rLRQywuP08va/bhXasCe69bKuvnjp4tOMj3UP5l07M9OhkLdARkvTdtNhk8UH+ULurY1byirGvpL94QLZzwsyzdli7rW3+R3N/P67/H3O1ClijIdf8VjYa2hq3pw+fTbz5f1SGvLJl9k38eep8xTExvM81b7hfOm+j9Ghe4zec025PFi+qTxyZJVat/C5dUFVAcO1QD6FeeuYBIyWaPwQXyKmqrWD1TiDfcozkeVGFtFHLdTTlk9Tf5aibfH8+dQlz6YecZFst8jSljjKIvJ0ubjqM7HjO1TVpj8RDz0kyqKyTOS4xbOlIk/TlXyueK/WSGBYdOTOkkVzzth0/Ew4eJDvQ6tjRVJklmdSkF9WoU9dYVGaX19cYdZJB+sZbA0nDDjOndH01g3i0NPx1fG6qu2vI51RHiw8RWy5mCSvuf9EDofEBBspNle1xYkBKVx8zWdmaD2e5JKrnHOUMeKqg/XUNIYn1saLDh3IWTDXy7ogW/6wvcC+vfLs93intD+MLfjznU1o37buh/wS+ek/iiulJf7v2TPz4XNVhX07Jj78fXMrz30//eQfBRmMhzfnTpZYp5OXcuPy9NMf3p/Ma1upashz6ZESj5xeGc+tVVw8fWJtPHPevOHZ/KlZ4p/t7oMFSVGCh58e5eXpN/dPqNhab3b4+GFuyX1y8cc+/P3ipRDHe9zeb/3Bfn/HD9uDtR/+0JbQl30hIcHqLFPDkZrAwDDx/nUehlEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFOAFDfYD7YJRMHAAALuAaHc=</CustomData>
+				<CustomData name="VSTChunk">eJxLEGFAARVzkhMYGtmqWdzYZL4J/DnQ1+jI4BHPcInn2+s7km/vs7xj2GTvcJR1QVbAl9uHDTx0r5emV5+d8dnBlO+bwZzHVQf5Wgzfur7g5RVlvbw6vPKmtLT07fOzNDmPncj6lDc78SiPC8OEnwsXhr8NeFu2wdloPuPVNQzWLVZsv7eYmK2o72Cen19yU2C1GEvY+qjUbt89Hsdk05bbauU17J5tdeDAuzeSctUlPbPSDC7xW/W+8VPYwch7mG3H7PPzPm5MPlBg7vLvzUzjbc2e81o7L7IpyjMc4TpQ8oFHVbb+T0DC9tLTYtECx3iC/zAsEZ9vY5n2iJ33xM+sE4xnJeoKbuhr3ug2v1PAGHDnkIHlL3H5j9tNP/5yLpuzJz9gW3rR803rLRQywuP08va/bhXasCe69bKuvnjp4tOMj3UP5l07M9OhkLdARkvTdtNhk8UH+ULurY1byirGvpL94QLZzwsyzdli7rW3+R3N/P67/H3O1ClijIdf8VjYa2hq3pw+fTbz5f1SGvLJl9k38eep8xTExvM81b7hfOm+j9Ghe4zec025PFi+qTxyZJVat/C5dUFVAcO1QD6FeeuYBIyWaPwQXyKmqrWD1TiDfcozkeVGFtFHLdTTlk9Tf5aibfH8+dQlz6YecZFst8jSljjKIvJ0ubjqM7HjO1TVpj8RDz0kyqKyTOS4xbOlIk/TlXyueK/WSGBYdOTOkkVzzth0/Ew4eJDvQ6tjRVJklmdSkF9WoU9dYVGaX19cYdZJB+sZbA0nDDjOndH01g3i0NPx1fG6qu2vI51RHiw8RWy5mCSvuf9EDofEBBspNle1xYkBKVx8zWdmaD2e5JKrnHOUMeKqg/XUNIYn1saLDh3IWTDXy7ogW/6wvcC+vfLs93intD+MLfjznU1o37buh/wS+ek/iiulJf7v2TPz4XNVhX07Jj78fXMrz30//eQfBRmMhzfnTpZYp5OXcuPy9NMf3p/Ma1upashz6ZESj5xeGc+tVVw8fWJtPHPevOHZ/KlZ4p/t7oMFSVGCh58e5eXpN/dPqNhab3b4+GFuyX1y8cc+/P3ipRDHe9zeb/3Bfn/HD9uDtR/+0JbQl30hIcHqLFPDkZrAwDDx/nUeBgaBCTXgnDNKj9Kj9Cg9So/So/QoPUqP0qP0KD1Kj9Kj9Cg9SqPSAC7Z9iY=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">5232</CustomData>
-				<CustomData name="VSTChunkSum">-2076</CustomData>
+				<CustomData name="VSTChunkSum">-2809</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1407246472" type="1684893299" displayName="8 DimPro" processingMode="mute">
@@ -6759,22 +6759,221 @@
 				<CustomData name="VSTChunkSize">366</CustomData>
 				<CustomData name="VSTChunkSum">-274</CustomData>
 			</Bidule>
-			<BiduleGroup id="UID_1501538099" displayName="AcGuit" zoom="1" type="com.plogue.groups.AcGuit" processingMode="process" author="music" version="1.0">
-				<Geometry x="-292.943" y="143.947" w="0" h="0"/>
+			<BiduleGroup id="UID_1501541569" displayName="AcGuit" zoom="1" type="com.plogue.groups.AcGuit" processingMode="process" author="music" version="1.0">
+				<Geometry x="-310" y="143.462" w="0" h="0"/>
 				<Channel index="0" name="Sample Input Channel 1" direction="input" type="samples"/>
 				<Channel index="1" name="MIDI Input Port 1" direction="input" type="midi"/>
 				<Channel index="0" name="Sample Output Channel 1" direction="output" type="samples"/>
 				<Channel index="1" name="Sample Output Channel 2" direction="output" type="samples"/>
 				<Gui state="normal" hidden="true" generic="true">
-					<Geometry x="-6" y="89" w="478" h="443"/>
+					<Geometry x="464" y="91" w="477" h="486"/>
 				</Gui>
-				<Presets uSize="1894" checkSum="-619">eJy9lc1vgjAYxnedf0XTiydKW1DBCGY7uCxxH5mXXZvSKRm0pC1T//tVXJaYyAiZkRMfz9vf+zyhfWfzXVmAL6FNrmQCCcIQCMlVlst1Ah9XL14UjWKPwHk6mN3nWV2IVy2MsAa4QmmmO5MncGNtNfX97XaLtgFSeu1TjIn//rRc8Y0omZdLY5nkAgKnn0r1zEphKsbF8ftScWYPDQxPEGhnsiGw+0okkKsSVYVa1wKttaorg+74Q51bmA5uZ0c9yLMEuv6lWzyBP+8IBFqwTMlin0CpDnKnZ9pprNBNiTeBoDZCP+WyqW/u2c6lAUGh+KfIFkq/MZmpMoEfrDDORlnbpuMF41ZpV4YITMnM/135HIe2cGhPDkb4bxJuAQWIjCmNeuPCSTwJOpjkUiF2mWtLkaDRBPf3FgeYjLu8tTIxxj2JwQjROCQk6kCGF8qzy9roSpzxlTitmznoCaJdPyKJrmQpvg6Hth0bNLx0dPRip0UHp3Xj/i8699SMFzcU/ZORlQ5uzlzfMC1bQw==</Presets>
+				<Presets uSize="2116" checkSum="-50">eJy9lV1PgzAUhr11v6Lpza5W+gEbLGNGLzQm8yN6421T6iRCS9ritn9vh8ZkiUgwBK4KnNPnvG/ac1YX+7IAH9LYXKsUEoQhkEroLFfbFN4+P8ziOEpmBF6sJ6urPKsL+Wiklc4Cn6jscm/zFL45Vy2DYLfboR1D2mwDijEJXu42z+JNlnyWK+u4EhICH79U+p6X0lZcyK//Gy24OxYwPUGgvc2mwB0qmUKhS1QVeltLtDW6riy6FDd17uB6cr76igd5lkJfv/Kbp/D7G4HASJ5pVRxSqPQx3Mdz42OcNE3KbAFBbaW5y1WT36z53rsBQaHFu8yutXniKtNlCl95Yb2MsnZNxddcOG18GiJwTVbBz86/cWgLh/bkYIT/JuEWEENkTmncGxcukgXrYJKhTOwS1+YiQdEC99eWsDmjXdpamRjjnkQWIZqEhMQdyHAgP7ukRSNx5iNxWi8z6wmiXQeRxCNJSsbh0La2QcOhraODdYsOTuvFHdg6NhKntSv8r/mFURSz5JTp35rR6Qd+cDKO15OzX59PaWeg5A==</Presets>
 				<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Bidule id="UID_1247940295" type="1399408212" displayName="FreeverbToo_0" processingMode="process">
+				<Bidule id="UID_1501541577" type="com.plogue.Gain" displayName="AcGain" processingMode="process">
+					<Geometry x="-45" y="203" w="0" h="0"/>
+					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="435" y="303" w="410" h="166"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="3.16228" lockedForRandom="false" mutationFactor="0.1">0.479730</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541579" type="959526196" displayName="AcPtchShft" processingMode="process">
+					<Geometry x="-213" y="124" w="0" h="0"/>
+					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="1" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="false">
+						<Geometry x="184" y="500" w="0" h="0"/>
+					</Gui>
+					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="15" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">-0.0</Parameter>
+					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">-0.0</Parameter>
+					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.338028</Parameter>
+					<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="15" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="16" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="17" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.512222</Parameter>
+					<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="21" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="22" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="23" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="24" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="25" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<CustomData name="VSTChunk">eJzt2j1qlFEUxvEjUUGCpBMLwUHBSsI99/sWFsHGpAr2EoJCFBREXMAtXICrsHQDbkHByt5SrNyB7zjMPzvIvZhzwvvMU2Tmdwg53XyVm7IrInvL8+OhyOEtkdePRD6eiPw8Enn8QuTzO5EPZyLf78i/uf9k8/r7yub3v90T+fRA5NfyfDkQOTrcvLcdi+w823zW01cif96I3H0r0pf33jg+ff/85Wq1UpqnBVqkJVqmFVqltW1TR8NQDMVQDMVQDMVQDMXwGB7DY3gMj+ExPIbH8BgeI2AEjIARMAJGwAgYASNgBIyIETEiRsSIGBEjYkSMiBExEkbCSBgJI2EkjISRMBJGwsgYGSNjZIyMkTEyRsbIGBmjYBSMglEwCkbBKBgFo2AUjIpRMSpGxagYFaNiVIyKUTEaRsNoGA2jYTSMhtEwGkbbGuocTWmeFmiRlmiZVmiVhsGdK3eu3Lly58qdK3eu3Lly58qdK3eu3Lly58qdK3eu3Lly58qdK3euvl5z+845S0tLS0tLS0tLS0tLS0tLS0tLS0tLS8v/Ka/G/azbSM7C4kJj+S9Ud57D78HS8kJT1y+Wlpcz19/fWn8Pa0ds+ugFJpk+eoFJpo9eYJLpoxeYZProBSaZPnqBSaaPXmCS6ctze/m57NNHLzDJ9NELTDJ99AKTTB+9wCTTl+f66CUmmC72d/gLmr2UCg==</CustomData>
+					<CustomData name="VSTChunkCompressed">yes</CustomData>
+					<CustomData name="VSTChunkSize">13680</CustomData>
+					<CustomData name="VSTChunkSum">920</CustomData>
+					<CustomData name="curProg">1</CustomData>
+				</Bidule>
+				<Bidule id="UID_1501541581" type="1919247729" displayName="AcReEQ" processingMode="passthrough">
+					<Geometry x="-44" y="-16" w="0" h="0"/>
+					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="false">
+						<Geometry x="691" y="293" w="0" h="0"/>
+					</Gui>
+					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.004167</Parameter>
+					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
+					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
+					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.012500</Parameter>
+					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
+					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
+					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.041667</Parameter>
+					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
+					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
+					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.208333</Parameter>
+					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
+					<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
+					<CustomData name="VSTChunk">eJxTZGBgYGGAAEYGGIh0gNAf7KECDgwcyAoOFBFQ4NCPqYARWUHHZgIKoBIAW14LvQ==</CustomData>
+					<CustomData name="VSTChunkCompressed">yes</CustomData>
+					<CustomData name="VSTChunkSize">160</CustomData>
+					<CustomData name="VSTChunkSum">308</CustomData>
+					<CustomData name="curProg">0</CustomData>
+				</Bidule>
+				<Bidule id="UID_1501541583" type="com.plogue.DelayLine" displayName="AcShrtDelay" processingMode="process">
+					<Geometry x="-251" y="177" w="0" h="0"/>
+					<ChannelConfig numSampleIn="3" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="529" y="590" w="410" h="163"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="5" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541585" type="com.plogue.Variable" displayName="AcDelay (samples)" processingMode="process">
+					<Geometry x="-288" y="238" w="0" h="0"/>
+					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="435" y="302" w="410" h="167"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1000" lockedForRandom="false" mutationFactor="0.1">35.294118</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541587" type="com.plogue.CrossFader" displayName="12Str Xfade" processingMode="process">
+					<Geometry x="-61" y="116" w="0" h="0"/>
+					<ChannelConfig numSampleIn="4" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="121" y="279" w="429" h="192"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1.5708" lockedForRandom="false" mutationFactor="0.1">0.936320</Parameter>
+					<Parameter id="1" userMin="0" userMax="3" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541589" type="com.plogue.Gate" displayName="12 strng" processingMode="process">
+					<Geometry x="-437" y="199" w="0" h="0"/>
+					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="false" generic="true">
+						<Geometry x="582" y="0" w="107" h="87"/>
+					</Gui>
+					<Presets uSize="960" checkSum="-1365">eJztk8FLwzAYxb26vyJ8l52aNhV1jqYDDxNhU3EXryH53IJtUpLUdv+9WYfiRAURb+aUkPfy3veDFLO+rsgzOq+t4cBoBgSNtEqbNYfr1W0ymZxeJAxm5ai41Kqt8M6hx+BJNBo/7b3msAmhmaZp13W0O6HWrdM8y1j6sFys5AZrkWjjgzASgUT91NgbUaNvhMT9/cJKEXYFxgcRtPdqTMK2QQ7S1rSp7LpFeiUCQjk6LvYyohWHWNvENzmcER9cLA/EoVDWVFsOxu7kUS9c1AR0gyU5B9J6dEttBv+wF32EAKSy8gnV3Lp7YZStOTyKysf2dRuGonMhg3XRRhmUrEjfXv4sJ/8iJ/9hTkaz75OyvxkongbQH5CzV+QsJ6t/5r8cKPuKeZEe/IlydPR+vQA/bzNI</Presets>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541591" type="1365590851" displayName="FSQ1964_3" processingMode="process">
+					<Geometry x="-73" y="-105" w="0" h="0"/>
+					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="false">
+						<Geometry x="498" y="257" w="910" h="489"/>
+					</Gui>
+					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="13" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.262500</Parameter>
+					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
+					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.150000</Parameter>
+					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
+					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.800000</Parameter>
+					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
+					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
+					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.100000</Parameter>
+					<CustomData name="VSTChunk">eJxtkzFv00AYhj8WvETIQ4tUieEkVKRKZcEIlvpc1AoC8hBRKCB1iBv5YktJHO7sinbqxNSNDpyXdkIM/ADY2LF/ABtT/gMb33d2GxPH0ulsyd9z7/v6NQCA1n95WXT4Q0dxgFNX63cewBTXqdnL4g6ujrcjj1UajFgUDyMFvtW31+1NnH+7gve31u1cryHHd8uicIW4h/dnXIiZm+u4ZvWQc0D37rNwko5CdpgkKoWVNgvqS4iPqKnvEfsXakR+zeqTJl7gWfvBIMvGLM0OQzaVoQongxBu+1bv/IW9h4vOI44QXzhxHMdB5h/e1AWwzYf4zpNBkqk0HrBhFqeBZMRpsshPaXScmUWsXD/3miwHc3ScTy3WA2h7xKy2yuIbJ33EwucFXZfo0ee7Mhsrdp+Fkygge22PV6wOpxmaz/WP67yEOKIMPfK9wEJdXevzY/R50bW+PsIds6DMaF6Imzi3YbQQo+LGhjMUM94NpIrqRizTRd5whtNO3kgj+sSM7hqW4+zUzDX+MjhJJFNRIKcslcFExVgS1czLpmzx/Z+c+lX5AZizlPmON9D/q+QDBl/pWvYdq4wosy1iIO+pR9+26bHq8Yy/HqEaw2JChu8z9Hi8mP1Vx3KtTceE2PeaXa0yveTNrsKS7GkWl1v/S6Zj1fO8E3gGPv/mbwI5ZkdzILTy2jYea17NLPj///aB6eteItLrcq36VrfO6zuyerj/A/vkTGs=</CustomData>
+					<CustomData name="VSTChunkCompressed">yes</CustomData>
+					<CustomData name="VSTChunkSize">1064</CustomData>
+					<CustomData name="VSTChunkSum">-2677</CustomData>
+					<CustomData name="curProg">2</CustomData>
+				</Bidule>
+				<Bidule id="UID_1501541593" type="com.plogue.Gate" displayName="chorus I/O" processingMode="process">
+					<Geometry x="-436" y="168" w="0" h="0"/>
+					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="1101" y="158" w="107" h="87"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541595" type="com.plogue.Gate" displayName="reverb i/o" processingMode="process">
+					<Geometry x="-436" y="132" w="0" h="0"/>
+					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="973" y="76" w="107" h="87"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501541597" type="com.plogue.Gate" displayName="ReEQ i/o" processingMode="process">
+					<Geometry x="-434" y="101" w="0" h="0"/>
+					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
+					<Gui state="normal" hidden="true" generic="true">
+						<Geometry x="890" y="17" w="107" h="87"/>
+					</Gui>
+					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
+					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+				</Bidule>
+				<Bidule id="UID_1501543394" type="1399408212" displayName="FreeverbToo_0" processingMode="process">
 					<Geometry x="-55" y="-150" w="0" h="0"/>
 					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 					<Gui state="normal" hidden="true" generic="false">
@@ -6807,7 +7006,7 @@
 					<CustomData name="VSTChunkSum">476</CustomData>
 					<CustomData name="curProg">2</CustomData>
 				</Bidule>
-				<Bidule id="UID_1313442404" type="1835295054" displayName="mda Dynamics_0" processingMode="process">
+				<Bidule id="UID_1501543396" type="1835295054" displayName="mda Dynamics_0" processingMode="process">
 					<Geometry x="-46" y="288" w="0" h="0"/>
 					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 					<Gui state="normal" hidden="true" generic="true">
@@ -6834,7 +7033,7 @@
 					<CustomData name="VSTChunkSum">60</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
-				<Bidule id="UID_1456336246" type="1313098066" displayName="NadIR_0" processingMode="process">
+				<Bidule id="UID_1501543398" type="1313098066" displayName="NadIR_0" processingMode="process">
 					<Geometry x="120" y="56" w="0" h="0"/>
 					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 					<Gui state="normal" hidden="true" generic="false">
@@ -6864,13 +7063,13 @@
 					<Parameter id="16" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.666667</Parameter>
 					<Parameter id="17" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.300000</Parameter>
 					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<CustomData name="VSTChunk">eJzb4dbL+7+egaG8vFwvMz0vsyQ1MbegWC85P5cBDFpfB9qD6K8ac+yqRfLsGTBAg70t13Q7EN1/6KuN+8MqFDWrV2nZz5o5EyzPBATOVjGJpSmZ+TGZuQWlOcWpxTGOyfmlxSWZyTHppZkliUUxWSamCgWZqVX5euWJZZjWDQNAVBjE52YmD9sQYGAAACMQPqw=</CustomData>
+					<CustomData name="VSTChunk">eJzb4Xbs2796Boby8nK9zPS8zJLUxNyCYr3k/FwGMGh9HWgPor9qzLGrFsmzZ8AADfa2XNPtQHT/oa827g+rUNSsXqVlP2vmTLA8iO9sFZNYmpKZH5OZW1CaU5xaHOOYnF9aXJKZHJNemlmSWBSTZWKqUJCZWpWvV55YhmndMABEhUF8bmbysA0BBgYA2Sk/xQ==</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">632</CustomData>
-					<CustomData name="VSTChunkSum">-1023</CustomData>
+					<CustomData name="VSTChunkSum">-621</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
-				<Bidule id="UID_1456770593" type="com.plogue.CrossFader" displayName="CrossFader_2" processingMode="process">
+				<Bidule id="UID_1501543400" type="com.plogue.CrossFader" displayName="NadIR Xfade" processingMode="process">
 					<Geometry x="-77" y="31.5" w="0" h="0"/>
 					<ChannelConfig numSampleIn="4" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 					<Gui state="normal" hidden="true" generic="true">
@@ -6883,7 +7082,7 @@
 					<Parameter id="0" userMin="0" userMax="1.5708" lockedForRandom="false" mutationFactor="0.1">0.455839</Parameter>
 					<Parameter id="1" userMin="0" userMax="8" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
 				</Bidule>
-				<Bidule id="UID_1469994920" type="1297435732_2_2" displayName="Multiply 2 ins 2 outs_0" processingMode="process">
+				<Bidule id="UID_1501543402" type="1297435732_2_2" displayName="Multiply 2 ins 2 outs_0" processingMode="process">
 					<Geometry x="-59" y="-195" w="0" h="0"/>
 					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 					<Gui state="normal" hidden="true" generic="false">
@@ -6921,244 +7120,44 @@
 					<CustomData name="VSTChunkSize">201</CustomData>
 					<CustomData name="VSTChunkSum">-544</CustomData>
 				</Bidule>
-				<Bidule id="UID_1501538102" type="com.plogue.Gain" displayName="AcGain" processingMode="process">
-					<Geometry x="-45" y="203" w="0" h="0"/>
-					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="true">
-						<Geometry x="435" y="303" w="410" h="166"/>
-					</Gui>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="3.16228" lockedForRandom="false" mutationFactor="0.1">0.479730</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501538104" type="959526196" displayName="AcPtchShft" processingMode="passthrough">
-					<Geometry x="-213" y="124" w="0" h="0"/>
-					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="1" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="false">
-						<Geometry x="184" y="500" w="0" h="0"/>
-					</Gui>
-					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="15" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">-0.0</Parameter>
-					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">-0.0</Parameter>
-					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.338028</Parameter>
-					<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="15" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="16" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="17" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.512222</Parameter>
-					<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="21" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="22" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="23" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="24" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="25" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<CustomData name="VSTChunk">eJzt2j1qlFEUxvEjUUGCpBMLwUHBSsI99/sWFsHGpAr2EoJCFBREXMAtXICrsHQDbkHByt5SrNyB7zjMPzvIvZhzwvvMU2Tmdwg53XyVm7IrInvL8+OhyOEtkdePRD6eiPw8Enn8QuTzO5EPZyLf78i/uf9k8/r7yub3v90T+fRA5NfyfDkQOTrcvLcdi+w823zW01cif96I3H0r0pf33jg+ff/85Wq1UpqnBVqkJVqmFVqltW1TR8NQDMVQDMVQDMVQDMXwGB7DY3gMj+ExPIbH8BgeI2AEjIARMAJGwAgYASNgBIyIETEiRsSIGBEjYkSMiBExEkbCSBgJI2EkjISRMBJGwsgYGSNjZIyMkTEyRsbIGBmjYBSMglEwCkbBKBgFo2AUjIpRMSpGxagYFaNiVIyKUTEaRsNoGA2jYTSMhtEwGkbbGuocTWmeFmiRlmiZVmiVhsGdK3eu3Lly58qdK3eu3Lly58qdK3eu3Lly58qdK3eu3Lly58qdK3euvl5z+845S0tLS0tLS0tLS0tLS0tLS0tLS0tLS8v/Ka/G/azbSM7C4kJj+S9Ud57D78HS8kJT1y+Wlpcz19/fWn8Pa0ds+ugFJpk+eoFJpo9eYJLpoxeYZProBSaZPnqBSaaPXmCS6ctze/m57NNHLzDJ9NELTDJ99AKTTB+9wCTTl+f66CUmmC72d/gLmr2UCg==</CustomData>
-					<CustomData name="VSTChunkCompressed">yes</CustomData>
-					<CustomData name="VSTChunkSize">13680</CustomData>
-					<CustomData name="VSTChunkSum">920</CustomData>
-					<CustomData name="curProg">1</CustomData>
-				</Bidule>
-				<Bidule id="UID_1501538106" type="1919247729" displayName="AcReEQ" processingMode="passthrough">
-					<Geometry x="-44" y="-16" w="0" h="0"/>
-					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="false">
-						<Geometry x="691" y="293" w="0" h="0"/>
-					</Gui>
-					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.004167</Parameter>
-					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
-					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
-					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.012500</Parameter>
-					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
-					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
-					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.041667</Parameter>
-					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
-					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
-					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.208333</Parameter>
-					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.250000</Parameter>
-					<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
-					<CustomData name="VSTChunk">eJxTZGBgYGGAAEYGGIh0gNAf7KECDgwcyAoOFBFQ4NCPqYARWUHHZgIKoBIAW14LvQ==</CustomData>
-					<CustomData name="VSTChunkCompressed">yes</CustomData>
-					<CustomData name="VSTChunkSize">160</CustomData>
-					<CustomData name="VSTChunkSum">308</CustomData>
-					<CustomData name="curProg">0</CustomData>
-				</Bidule>
-				<Bidule id="UID_1501538108" type="com.plogue.DelayLine" displayName="AcShrtDelay" processingMode="passthrough">
-					<Geometry x="-251" y="177" w="0" h="0"/>
-					<ChannelConfig numSampleIn="3" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="true">
-						<Geometry x="529" y="590" w="410" h="163"/>
-					</Gui>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="5" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501538110" type="com.plogue.Variable" displayName="AcDelay (samples)" processingMode="process">
-					<Geometry x="-288" y="238" w="0" h="0"/>
-					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="true">
-						<Geometry x="435" y="302" w="410" h="167"/>
-					</Gui>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1000" lockedForRandom="false" mutationFactor="0.1">35.294118</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501538112" type="com.plogue.CrossFader" displayName="ACCrossFade" processingMode="process">
-					<Geometry x="-61" y="117" w="0" h="0"/>
-					<ChannelConfig numSampleIn="4" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="true">
-						<Geometry x="121" y="279" w="429" h="192"/>
-					</Gui>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1.5708" lockedForRandom="false" mutationFactor="0.1">0.930160</Parameter>
-					<Parameter id="1" userMin="0" userMax="3" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501538114" type="com.plogue.Gate" displayName="12 strng" processingMode="process">
-					<Geometry x="-437" y="199" w="0" h="0"/>
-					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="false" generic="true">
-						<Geometry x="582" y="0" w="107" h="87"/>
-					</Gui>
-					<Presets uSize="960" checkSum="-1365">eJztk8FLwzAYxb26vyJ8l52aNhV1jqYDDxNhU3EXryH53IJtUpLUdv+9WYfiRAURb+aUkPfy3veDFLO+rsgzOq+t4cBoBgSNtEqbNYfr1W0ymZxeJAxm5ai41Kqt8M6hx+BJNBo/7b3msAmhmaZp13W0O6HWrdM8y1j6sFys5AZrkWjjgzASgUT91NgbUaNvhMT9/cJKEXYFxgcRtPdqTMK2QQ7S1rSp7LpFeiUCQjk6LvYyohWHWNvENzmcER9cLA/EoVDWVFsOxu7kUS9c1AR0gyU5B9J6dEttBv+wF32EAKSy8gnV3Lp7YZStOTyKysf2dRuGonMhg3XRRhmUrEjfXv4sJ/8iJ/9hTkaz75OyvxkongbQH5CzV+QsJ6t/5r8cKPuKeZEe/IlydPR+vQA/bzNI</Presets>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501538117" type="1365590851" displayName="FSQ1964_3" processingMode="process">
-					<Geometry x="-73" y="-105" w="0" h="0"/>
-					<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="true" generic="false">
-						<Geometry x="498" y="257" w="910" h="489"/>
-					</Gui>
-					<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="13" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.262500</Parameter>
-					<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
-					<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.150000</Parameter>
-					<Parameter id="5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
-					<Parameter id="6" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.800000</Parameter>
-					<Parameter id="7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
-					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
-					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.100000</Parameter>
-					<CustomData name="VSTChunk">eJxtk79u1EAQxoeGozihayNRrBSCREGDKeN1kBH/lCIiEISU4vas3bOlO/vYtSNClYoqXdKsq1RUvAAdPfYD0FHdO9Axs7bOxpylkb2W57ffN/sZAMDaP7yuxvyJZzjAhW/thwBghXXh7nV1D2schPrc5GLB4mQeG5hJSKNzMDA6un49OcYq7Q5yDv26qnylHuDzJVdq7Zc2aVlHyDmlZ/+FTPOFZLMsMzlokZoEXxiAO7vhaHp3bwLtpdQX1DQNiP0TNSK/ZU1JE69wrxMRFcWS5cVMspWWRqaR7Oui/Yij1FdOHM/zkPmb93UBHPA5fvM0ygqTJxGbF0kuNIOBLvJTOx2XrohV2ldBn+XhHD3v6j/WYxjqAsBZ7dfVN076iIXrga4b9HjIn+liadgjJtNYkL2hro415tRD/aX9vpmXUmc0w4B8D1hbdB24HFC/Urex76HTQoyGmzjOXK35S6FN3CaiYTldI0BdsBeOyBv2cLqTN9KIPnFGu47leWHL3OFvxOdMMxMLvWJ5l4kNC2BCs8Xvf3DKV+MHoGMZd4630P/b7BMOvq9r6JFmRDPbJwbyngd0tn2PTY7X/N0C1TgWU1p+LCTl/n7Y00VXk7HSWpcxpU6Cflabmd7wflZhiy7qxfLbf8llrFl3mcA9cP2Lvxd6yc46IGw9R4CW1zIr/u+/feryepypfBOuLay/00xRFg==</CustomData>
-					<CustomData name="VSTChunkCompressed">yes</CustomData>
-					<CustomData name="VSTChunkSize">1064</CustomData>
-					<CustomData name="VSTChunkSum">-1424</CustomData>
-					<CustomData name="curProg">2</CustomData>
-				</Bidule>
-				<Bidule id="UID_1501541318" type="com.plogue.Gate" displayName="chorus I/O" processingMode="process">
-					<Geometry x="-436" y="168" w="0" h="0"/>
-					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="false" generic="true">
-						<Geometry x="582" y="0" w="107" h="87"/>
-					</Gui>
-					<Presets uSize="960" checkSum="-561">eJztk8FLwzAYxb26vyJ8l52aNhV1jqYDDxNhU3EXryH53IJtUpLUdv+9WUVxQwVBb+aUkPe+38uDFLO+rsgzOq+t4cBoBgSNtEqbNYfr1W0ymZxeJAxm5ai41Kqt8M6hx+BJNBo/7b3msAmhmaZp13W0O6HWrdM8y1j6sFys5AZrkWjjgzASgUT91NgbUaNvhMTX+4WVIuwCjPcQtPdqTMK2QQ7S1rSp7LpFeiUCQjk6Ll5lRCsOMbaJMzmcER9cDA/EoVDWVFsOxu7kUS9c1AR0gyU5B9J6dEttBv+wF30sAUhl5ROquXX3wihbc3gUlY/p6zYMQedCBuuijTIoWZG+T/6Mk3/ByX/IyWj2PSn7pQcdYOJpKPqgcvZWOcvJ6r/zv+q8SPf+RDk6+rheAD3EM0c=</Presets>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501541320" type="com.plogue.Gate" displayName="reverb i/o" processingMode="process">
-					<Geometry x="-436" y="132" w="0" h="0"/>
-					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="false" generic="true">
-						<Geometry x="582" y="0" w="107" h="87"/>
-					</Gui>
-					<Presets uSize="960" checkSum="-561">eJztk8FLwzAYxb26vyJ8l52aNhV1jqYDDxNhU3EXryH53IJtUpLUdv+9WUVxQwVBb+aUkPe+38uDFLO+rsgzOq+t4cBoBgSNtEqbNYfr1W0ymZxeJAxm5ai41Kqt8M6hx+BJNBo/7b3msAmhmaZp13W0O6HWrdM8y1j6sFys5AZrkWjjgzASgUT91NgbUaNvhMTX+4WVIuwCjPcQtPdqTMK2QQ7S1rSp7LpFeiUCQjk6Ll5lRCsOMbaJMzmcER9cDA/EoVDWVFsOxu7kUS9c1AR0gyU5B9J6dEttBv+wF30sAUhl5ROquXX3wihbc3gUlY/p6zYMQedCBuuijTIoWZG+T/6Mk3/ByX/IyWj2PSn7pQcdYOJpKPqgcvZWOcvJ6r/zv+q8SPf+RDk6+rheAD3EM0c=</Presets>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
-				</Bidule>
-				<Bidule id="UID_1501541322" type="com.plogue.Gate" displayName="ReEQ i/o" processingMode="process">
-					<Geometry x="-434" y="101" w="0" h="0"/>
-					<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-					<Gui state="normal" hidden="false" generic="true">
-						<Geometry x="582" y="0" w="107" h="87"/>
-					</Gui>
-					<Presets uSize="960" checkSum="-1365">eJztk8FLwzAYxb26vyJ8l52aNhV1jqYDDxNhU3EXryH53IJtUpLUdv+9WYfiRAURb+aUkPfy3veDFLO+rsgzOq+t4cBoBgSNtEqbNYfr1W0ymZxeJAxm5ai41Kqt8M6hx+BJNBo/7b3msAmhmaZp13W0O6HWrdM8y1j6sFys5AZrkWjjgzASgUT91NgbUaNvhMT9/cJKEXYFxgcRtPdqTMK2QQ7S1rSp7LpFeiUCQjk6LvYyohWHWNvENzmcER9cLA/EoVDWVFsOxu7kUS9c1AR0gyU5B9J6dEttBv+wF32EAKSy8gnV3Lp7YZStOTyKysf2dRuGonMhg3XRRhmUrEjfXv4sJ/8iJ/9hTkaz75OyvxkongbQH5CzV+QsJ6t/5r8cKPuKeZEe/IlydPR+vQA/bzNI</Presets>
-					<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-					<Parameter id="-5" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-					<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				</Bidule>
-				<Link producerId="UID_1501538102" producerChannel="0" listenerId="UID_1501538108" listenerChannel="0"/>
-				<Link producerId="UID_1501538108" producerChannel="0" listenerId="UID_1501538104" listenerChannel="0"/>
-				<Link producerId="UID_1501538110" producerChannel="0" listenerId="UID_1501538108" listenerChannel="1"/>
-				<Link producerId="UID_1501538102" producerChannel="0" listenerId="UID_1501538112" listenerChannel="2"/>
-				<Link producerId="UID_1501538104" producerChannel="0" listenerId="UID_1501538112" listenerChannel="0"/>
-				<Link producerId="UID_1501538106" producerChannel="0" listenerId="UID_1501538117" listenerChannel="0"/>
-				<Link producerId="UID_1501538117" producerChannel="0" listenerId="UID_1247940295" listenerChannel="0"/>
-				<Link producerId="UID_1501538106" producerChannel="1" listenerId="UID_1501538117" listenerChannel="1"/>
-				<Link producerId="UID_1501538117" producerChannel="1" listenerId="UID_1247940295" listenerChannel="1"/>
-				<Link producerId="UID_1501538099" producerChannel="0" listenerId="UID_1313442404" listenerChannel="0"/>
-				<Link producerId="UID_1313442404" producerChannel="0" listenerId="UID_1501538102" listenerChannel="0"/>
-				<Link producerId="UID_1501538112" producerChannel="0" listenerId="UID_1456336246" listenerChannel="0"/>
-				<Link producerId="UID_1501538112" producerChannel="0" listenerId="UID_1456336246" listenerChannel="1"/>
-				<Link producerId="UID_1456336246" producerChannel="0" listenerId="UID_1456770593" listenerChannel="2"/>
-				<Link producerId="UID_1456336246" producerChannel="1" listenerId="UID_1456770593" listenerChannel="3"/>
-				<Link producerId="UID_1501538112" producerChannel="0" listenerId="UID_1456770593" listenerChannel="0"/>
-				<Link producerId="UID_1456770593" producerChannel="0" listenerId="UID_1501538106" listenerChannel="0"/>
-				<Link producerId="UID_1456770593" producerChannel="1" listenerId="UID_1501538106" listenerChannel="1"/>
-				<Link producerId="UID_1501538112" producerChannel="0" listenerId="UID_1456770593" listenerChannel="1"/>
-				<Link producerId="UID_1247940295" producerChannel="0" listenerId="UID_1469994920" listenerChannel="0"/>
-				<Link producerId="UID_1247940295" producerChannel="1" listenerId="UID_1469994920" listenerChannel="1"/>
-				<Link producerId="UID_1469994920" producerChannel="0" listenerId="UID_1501538099" listenerChannel="0"/>
-				<Link producerId="UID_1469994920" producerChannel="1" listenerId="UID_1501538099" listenerChannel="1"/>
-				<VirtualParameter id="0" source="UID_1501538102" param="0" displayName="AcVol"/>
-				<VirtualParameter id="1" source="UID_1501538104" param="22" displayName="PitchShift"/>
-				<VirtualParameter id="2" source="UID_1501538112" param="0" displayName="octave mix"/>
-				<VirtualParameter id="12" source="UID_1501538110" param="0" displayName="Delay (samples)"/>
-				<VirtualParameter id="14" source="UID_1501541318" param="0" displayName="Chorus mute"/>
-				<VirtualParameter id="15" source="UID_1469994920" param="-8" displayName="Chorus UI"/>
-				<VirtualParameter id="16" source="UID_1501538117" param="-8" displayName="FSQ UI"/>
-				<VirtualParameter id="17" source="UID_1501538117" param="-5" displayName="FSQ preset"/>
-				<VirtualParameter id="18" source="UID_1501541320" param="0" displayName="FrVrb mute"/>
-				<VirtualParameter id="19" source="UID_1247940295" param="-8" displayName="FrVrb UI"/>
-				<VirtualParameter id="20" source="UID_1247940295" param="-5" displayName="FrVrb Preset"/>
-				<VirtualParameter id="21" source="UID_1501541322" param="0" displayName="ReaEQ mute"/>
-				<VirtualParameter id="22" source="UID_1501538106" param="-8" displayName="ReaEQ UI"/>
+				<Link producerId="UID_1501541577" producerChannel="0" listenerId="UID_1501541583" listenerChannel="0"/>
+				<Link producerId="UID_1501541583" producerChannel="0" listenerId="UID_1501541579" listenerChannel="0"/>
+				<Link producerId="UID_1501541585" producerChannel="0" listenerId="UID_1501541583" listenerChannel="1"/>
+				<Link producerId="UID_1501541577" producerChannel="0" listenerId="UID_1501541587" listenerChannel="2"/>
+				<Link producerId="UID_1501541579" producerChannel="0" listenerId="UID_1501541587" listenerChannel="0"/>
+				<Link producerId="UID_1501541581" producerChannel="0" listenerId="UID_1501541591" listenerChannel="0"/>
+				<Link producerId="UID_1501541591" producerChannel="0" listenerId="UID_1501543394" listenerChannel="0"/>
+				<Link producerId="UID_1501541581" producerChannel="1" listenerId="UID_1501541591" listenerChannel="1"/>
+				<Link producerId="UID_1501541591" producerChannel="1" listenerId="UID_1501543394" listenerChannel="1"/>
+				<Link producerId="UID_1501541569" producerChannel="0" listenerId="UID_1501543396" listenerChannel="0"/>
+				<Link producerId="UID_1501543396" producerChannel="0" listenerId="UID_1501541577" listenerChannel="0"/>
+				<Link producerId="UID_1501541587" producerChannel="0" listenerId="UID_1501543398" listenerChannel="0"/>
+				<Link producerId="UID_1501541587" producerChannel="0" listenerId="UID_1501543398" listenerChannel="1"/>
+				<Link producerId="UID_1501543398" producerChannel="0" listenerId="UID_1501543400" listenerChannel="2"/>
+				<Link producerId="UID_1501543398" producerChannel="1" listenerId="UID_1501543400" listenerChannel="3"/>
+				<Link producerId="UID_1501541587" producerChannel="0" listenerId="UID_1501543400" listenerChannel="0"/>
+				<Link producerId="UID_1501543400" producerChannel="0" listenerId="UID_1501541581" listenerChannel="0"/>
+				<Link producerId="UID_1501543400" producerChannel="1" listenerId="UID_1501541581" listenerChannel="1"/>
+				<Link producerId="UID_1501541587" producerChannel="0" listenerId="UID_1501543400" listenerChannel="1"/>
+				<Link producerId="UID_1501543394" producerChannel="0" listenerId="UID_1501543402" listenerChannel="0"/>
+				<Link producerId="UID_1501543394" producerChannel="1" listenerId="UID_1501543402" listenerChannel="1"/>
+				<Link producerId="UID_1501543402" producerChannel="0" listenerId="UID_1501541569" listenerChannel="0"/>
+				<Link producerId="UID_1501543402" producerChannel="1" listenerId="UID_1501541569" listenerChannel="1"/>
+				<VirtualParameter id="0" source="UID_1501541577" param="0" displayName="AcVol"/>
+				<VirtualParameter id="1" source="UID_1501541579" param="22" displayName="PitchShift"/>
+				<VirtualParameter id="2" source="UID_1501541587" param="0" displayName="octave mix"/>
+				<VirtualParameter id="12" source="UID_1501541585" param="0" displayName="Delay (samples)"/>
+				<VirtualParameter id="14" source="UID_1501541593" param="0" displayName="Chorus mute"/>
+				<VirtualParameter id="15" source="UID_1501543402" param="-8" displayName="Chorus UI"/>
+				<VirtualParameter id="16" source="UID_1501541591" param="-8" displayName="FSQ UI"/>
+				<VirtualParameter id="17" source="UID_1501541591" param="-5" displayName="FSQ preset"/>
+				<VirtualParameter id="18" source="UID_1501541595" param="0" displayName="FrVrb mute"/>
+				<VirtualParameter id="19" source="UID_1501543394" param="-8" displayName="FrVrb UI"/>
+				<VirtualParameter id="20" source="UID_1501543394" param="-5" displayName="FrVrb Preset"/>
+				<VirtualParameter id="21" source="UID_1501541597" param="0" displayName="ReaEQ mute"/>
+				<VirtualParameter id="22" source="UID_1501541581" param="-8" displayName="ReaEQ UI"/>
+				<VirtualParameter id="23" source="UID_1501543398" param="-8" displayName="NadIR UI"/>
+				<VirtualParameter id="24" source="UID_1501543400" param="0" displayName="NadIRXfade"/>
 			</BiduleGroup>
 			<Link producerId="UID_1256152843" producerChannel="1" listenerId="UID_1253746230" listenerChannel="1"/>
 			<Link producerId="UID_1256152843" producerChannel="0" listenerId="UID_1253746230" listenerChannel="0"/>
@@ -7213,18 +7212,15 @@
 			<Link producerId="UID_1407246472" producerChannel="0" listenerId="UID_1279725007" listenerChannel="0"/>
 			<Link producerId="UID_1279723669" producerChannel="0" listenerId="UID_1501281387" listenerChannel="0"/>
 			<Link producerId="UID_1501281387" producerChannel="0" listenerId="UID_1238784697" listenerChannel="0"/>
-			<Link producerId="UID_1279723669" producerChannel="1" listenerId="UID_1501538099" listenerChannel="0"/>
-			<Link producerId="UID_1501538099" producerChannel="0" listenerId="UID_1279723669" listenerChannel="6"/>
-			<Link producerId="UID_1501538099" producerChannel="1" listenerId="UID_1279723669" listenerChannel="7"/>
+			<Link producerId="UID_1501541569" producerChannel="1" listenerId="UID_1279723669" listenerChannel="7"/>
+			<Link producerId="UID_1501541569" producerChannel="0" listenerId="UID_1279723669" listenerChannel="6"/>
+			<Link producerId="UID_1279723669" producerChannel="1" listenerId="UID_1501541569" listenerChannel="0"/>
 			<VirtualParameter id="0" source="UID_1407248554" param="0" displayName="." GUI="label"/>
 			<VirtualParameter id="1" source="UID_1407248552" param="0" displayName="." GUI="label"/>
 			<VirtualParameter id="2" source="UID_1407248550" param="0" displayName="." GUI="label"/>
 			<VirtualParameter id="3" source="UID_1238784697" param="-2" displayName="Elec 1" GUI="checkbox"/>
 			<VirtualParameter id="5" source="UID_1238784697" param="-8" displayName="."/>
 			<VirtualParameter id="6" source="UID_1238784697" param="-5" displayName="." GUI="led"/>
-			<VirtualParameter id="10" source="UID_1501538099" param="-2" displayName="4 AcGtr" GUI="checkbox"/>
-			<VirtualParameter id="11" source="UID_1501538099" param="-8" displayName="."/>
-			<VirtualParameter id="12" source="UID_1501538099" param="-5" displayName="."/>
 			<VirtualParameter id="13" source="UID_1239289038" param="-2" displayName="Bass 5" GUI="checkbox"/>
 			<VirtualParameter id="14" source="UID_1239289038" param="-8" displayName="."/>
 			<VirtualParameter id="17" source="UID_1239289038" param="3" displayName="." GUI="led"/>
@@ -9371,9 +9367,6 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<Channel index="32" name="MIDI Output Port 1" direction="output" type="midi"/>
 			<Channel index="33" name="MIDI Output Port 2" direction="output" type="midi"/>
 			<Channel index="34" name="MIDI Output Port 3" direction="output" type="midi"/>
-			<Gui state="normal" hidden="true" generic="true">
-				<Geometry x="117" y="157" w="420" h="542"/>
-			</Gui>
 			<Presets uSize="10351" checkSum="-1083">eJztWkFr2zAY3XX5FUaXnmJblpzEIU5hh0Ig2crKoFdha62ZLQXLWZJ/P8UtZR35ItwK0YF8ShzJT9/z0/vsRxbXh6YOfvNWVVLkCIcxCrgoZFmJhxyt7r6NZ7M0G2N0vRwtvlTlrua3LVe8U4GeKNT8oKocPXbddh5F+/0+3JNQtg9REsc4ut+s74pH3rBxJVTHRMFRoMfPhfzKGq62rOBPv69lwbrTAq5eQYQHVV4F3XHLc4SWo8+Lp/NBVeZIr1Poi+To+RxGQctZKUV9zJGQp+F6PGv1mI63/ZTxFAU7xdtNJfr5/Wd20FWjoJbFL17eyPY7E6VscvST1Uovt9l1/cpuWNHJVk8LMVriRfRy5XM4CYCTDMSJw/gyUgwAxWeAunZ3DgctN5cxsA2MH6vLIBBjg0CeVXMZibi6N9SS2Aww6QDm3lUPhsRmuSAMacE2DqQEmlmnLnNTUuLoFiWQJwzdRNjEXOJIDAkkBts4kCsM1RwxMgcZg+2KJo5woOY9IQOBEiN1M0clObIFAtkCHYhDTcwRW8ZgtFTiyBgIZAzW+yuBrME+d46sgVjTd0izGaWp4YELkrn1rkQhmVsmkEIiJyGeJCebGtgz+lkmUFtPyGYaHT0iU6hFvY3GOMzIJJsaXgIp1K/s0+ioXVFoO7+NRmNdqa39bDTE1NF+Tq01rXCaTrNZYoBz9q6bunrZtda5NIGxPgxwkHHYJ9BWNGXCAb0ifW9J+lufv/yT0+GXnG61Dv7O6I5c+ZDOh3Q+pPMhnQ/pfEjnQzof0vmQ7r8K6YzG4EM6H9L5kM6HdD6k8yGdD+l8SOdDuo8T0i2iV3+1W44+uTj+AKwY3Tc=</Presets>
 			<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
@@ -9905,10 +9898,10 @@ Works only in 0.5001 or higher
 					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 					<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.605897</Parameter>
 					<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.013043</Parameter>
-					<CustomData name="VSTChunk">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</CustomData>
+					<CustomData name="VSTChunk">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</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">14016</CustomData>
-					<CustomData name="VSTChunkSum">5513</CustomData>
+					<CustomData name="VSTChunkSum">-6101</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
 				<Link producerId="UID_1192654498" producerChannel="0" listenerId="UID_1192654436" listenerChannel="0"/>
@@ -10279,16 +10272,16 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<VirtualParameter id="3" source="UID_1251461345" param="0" displayName="Attack time (ms)"/>
 				<VirtualParameter id="4" source="UID_1251461345" param="1" displayName="Release time (ms)"/>
 			</BiduleGroup>
-			<BiduleGroup id="UID_1254952257" displayName="16 Player" zoom="1" processingMode="mute" author="music" version="1.0">
+			<BiduleGroup id="UID_1254952257" displayName="16 Player" zoom="1" processingMode="process" author="music" version="1.0">
 				<Geometry x="315.164" y="-101.478" w="0" h="0"/>
 				<Channel index="0" name="Sample Output Channel 1" direction="output" type="samples"/>
 				<Channel index="1" name="Sample Output Channel 2" direction="output" type="samples"/>
-				<Presets uSize="11560" checkSum="-53">eJzt2k1r2zAYB/Bdl09hdOkptl78GuwUdigM2m2sl12FraRmthQkZUm//VR3HVQs6UqDF4/HJ1sv/svihzE8Li/3fRf8ENq0SlaIhBgFQtaqaeW6Qh9vP8/zPCnmBF0uZ+WHttl24osWRlgTuInSLPamrdCdtZtFFO12u3DHQqXXEcWYRN9urm/rO9HzeSuN5bIWKHDjF1J94r0wG16Lx/5rVXP7sICLZxHh3jQXgb3fiAqh5ex9+dgetE2F3Dqlu0mF+HrLUaAFb5Ts7isk1cNQN5Zr12+FHobPMxRsjdA3rRzmDud8754YBZ2qv4vmSumvXDaqr9CKd8Yttd/aYVVXvLZKu2khQUtSRr/v/KcceiCHvjYnxMeT8ImCcJjgIsfx8TRyII2FJKU0f3Umo0WS0OOZo20lO5ENL8ZdDV49ueRJrtV8tWrr/xAvHg9vnNIsTsbFS1Oc0xcyR9vKcfHSJ7y/2hjofUtQRlj2kqRT68WMxcVIr94z08s8vTHofUtQHmc4KeDde2obB/TGnt4E9ILeM/js/Tu9iac3Bb2g93AaPS+9qac3A72gdzJ6M09vDnpB72T05p7eAvSC3snoLTy9BANf4DsZvgT7fgn4Bb/T8Ut8vxT8gt/p+PUrbgRKbuB3Qn79mhuBohv4nZBfv+pGoOwGfifk16+7ESi8gd+z9ltGz/4CXs7e/fvjJ9UjNMA=</Presets>
+				<Presets uSize="11560" checkSum="3340">eJzt2k1r2zAYB/Bdl09hdOkptiS/BzuFHQqFdivtZVdhK6mZLQVJWdJvX9VdCxVLshKTxfD45BdJf1n8EIbHxeW2a73fXOlGihIRHyOPi0rWjViW6PrhxzTL4nxK0OV8Unxr6nXL7xTX3GjPdhR6ttVNiR6NWc2CYLPZ+JvQl2oZUIxJ8PP25qF65B2bNkIbJiqOPNt+JuR31nG9YhV/fX4jK2ZeJnDxIcLf6vrCM08rXiI0n3wtXu97TV0iO09hBykRW64Z8hRntRTtU4mEfGlq2zJlnxuu+ubTFHlrzdVtI/q+/Tnb2jdGXiurX7y+kuqeiVp2JVqwVtupdmvTz+qKVUYq280naE6K4H3kv+XQHTn0kznYx/uT8GBBMc4zHO1PIzvSQp8klGafzgxpHsd0f+ZQS0kOLWU4kA0nxl71Xh255E2uUWyxaCrAe0xQlNA0ik+LlyY4owcyT7aUp8VL3/D+uReC3mOCUhKmhyQNrReHYZSfaOs9M72hozcCvccEZVGK4xz23qFt7NAbOXpj0At6z+Cz99/0xo7eBPSC3t1p9Lz0Jo7eFPSC3tHoTR29GegFvaPRmzl6c9ALekejN3f0Egx8ge9o+BLs+iXgF/yOxy9x/VLwC37H49etuBEouYHfEfl1a24Eim7gd0R+3aobgbIb+B2RX7fuRqDwBn7P2m8RfPgLeD758v+PZ6mUNL8=</Presets>
 				<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="15" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Bidule id="UID_1248437721" type="com.plogue.AudioFileInput_2" displayName="Player 16" processingMode="mute">
 					<Geometry x="10" y="-3.72529e-009" w="0" h="0"/>
 					<ChannelConfig numSampleIn="0" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
@@ -10781,7 +10774,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="0" lockedForRandom="true" mutationFactor="0">Presets</Parameter>
 			</Bidule>
-			<Bidule id="UID_1285627575" type="1316308013" displayName="7-9 DK+" processingMode="mute">
+			<Bidule id="UID_1285627575" type="1316308013" displayName="7-9 DK+" processingMode="process">
 				<Geometry x="-19.5453" y="78.455" w="0" h="0"/>
 				<ChannelConfig numSampleIn="0" numSampleOut="9" numMidiIn="1" numMidiOut="1" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Gui state="normal" hidden="true" generic="false">
@@ -10791,7 +10784,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
 				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.453597</Parameter>
@@ -11053,7 +11046,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1303322970" type="com.plogue.Gain" displayName="10 gainEllips" processingMode="process">
 				<Geometry x="77.727" y="-67.091" w="0" h="0"/>
@@ -11257,7 +11250,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="VSTChunkSum">537</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
-			<Bidule id="UID_1417879560" type="2017543218" displayName="13 Addict2" processingMode="mute">
+			<Bidule id="UID_1417879560" type="2017543218" displayName="13 Addict2" processingMode="process">
 				<Geometry x="203" y="-258.5" w="0" h="0"/>
 				<ChannelConfig numSampleIn="0" numSampleOut="19" numMidiIn="1" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Gui state="normal" hidden="true" generic="false">
@@ -11267,7 +11260,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.757982</Parameter>
@@ -11580,7 +11573,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="VSTChunkSize">80059</CustomData>
 				<CustomData name="VSTChunkSum">-6878</CustomData>
 			</Bidule>
-			<Bidule id="UID_1417879561" type="1396994669" displayName="14 session Drummer" processingMode="mute">
+			<Bidule id="UID_1417879561" type="1396994669" displayName="14 session Drummer" processingMode="process">
 				<Geometry x="240" y="-322.5" w="0" h="0"/>
 				<ChannelConfig numSampleIn="0" numSampleOut="24" numMidiIn="1" numMidiOut="1" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Gui state="normal" hidden="true" generic="false">
@@ -11590,7 +11583,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.750000</Parameter>
 				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
@@ -12235,7 +12228,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			</Bidule>
 			<BiduleGroup id="UID_1469059645" displayName="tailBIAS2" zoom="1" type="com.plogue.groups.tail" processingMode="process" author="Hansje" version="1.0">
 				<Geometry x="-468.665" y="11.0525" w="0" h="0"/>
@@ -12504,10 +12497,10 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="17" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">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</CustomData>
+				<CustomData name="VSTChunk">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</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">216311</CustomData>
-				<CustomData name="VSTChunkSum">8249</CustomData>
+				<CustomData name="VSTChunkSize">216327</CustomData>
+				<CustomData name="VSTChunkSum">8922</CustomData>
 			</Bidule>
 			<Bidule id="UID_1501438515" type="com.plogue.Gate" displayName="gateBoog3" processingMode="process">
 				<Geometry x="-539.091" y="-14.0909" w="0" h="0"/>
@@ -12519,7 +12512,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
+				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			</Bidule>
 			<Link producerId="UID_1238859967" producerChannel="1" listenerId="UID_1238784727" listenerChannel="1"/>
 			<Link producerId="UID_1238859967" producerChannel="0" listenerId="UID_1238784727" listenerChannel="0"/>
@@ -20573,10 +20566,10 @@ the function implemented is: 0.5*x*(3 - x^2)
 				<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500100</Parameter>
-				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgvWrPKmyu3J0lX0t7y/7TNNLdi6dnfae3ZPt7nvuB5sbEnXe7tZDA2Q7RsHIBQBkaA+N</CustomData>
+				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgtXXvW2wexd6167A8IGd/E57+7r+v3ZzGi3tfq39anf5QJpdj3QvvLxswG3OKBgZAACdyhCT</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">2000</CustomData>
-				<CustomData name="VSTChunkSum">-1114</CustomData>
+				<CustomData name="VSTChunkSum">-1083</CustomData>
 				<CustomData name="curProg">6</CustomData>
 			</Bidule>
 			<Bidule id="UID_1239056175" type="1263814514" displayName="KTGran 12" processingMode="mute">
@@ -23056,10 +23049,10 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="22" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.600000</Parameter>
 				<Parameter id="23" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.650000</Parameter>
 				<Parameter id="24" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJztmNFOgzAUhnkKr2sfwLWFQkmcCXqxLOpmyNytqQ4W4kBkM3GP4tsKpx10czfen16Nn7/l9PvutrwTlz8XnnedpJP54uF5lqT85TaZ3d8cJU/pfJImj6RuPtaNLme6zMa0qIodJWXxPabsKlYBa5eIKJlWE11UY8op0WXdvQwZLBFAsuwixRREipJaV10i4Re8jLmgZJVt9L57EqbKAptBRTIZt0u1xTzLVq/67b2L/UhAN6Zk1+hqC9WAH2Wwnws/hgMoWW+K7TaBL4nD4wIO8zlUIhsuT+4ynUMtkOaoEBIo+aGJ/Hbkrwa2CeDDTQIlYa7FWk553mSfcJYyGyObmU/GMEfU3RVaKjJB3AUWBxzG2xny3b7OTiZtpRUGRigh9EM6+p9ifk6sPAjl5zT69n6OTFchM6MwFh05dM05xhxPriPpuOmNCDmo4KynbFW4Y1kVTqlX4dQGFdIqGMAPwF3MEvEiXsSLeBEv4kW8iBfxIl7Ei3gRL+JFvIgX8SJexHuKd/Tnb2jP+wVajfBO</CustomData>
+				<CustomData name="VSTChunk">eJztmN1OwjAYhrkKj2svQPqzbl0iJtMDQlQwC3Jqqmxkkc05MJFL8W7dvhZWkBPPvx6xd2+7r89zxuJOXP5cDAbXSTqezR+ep0nKX26T6f3NUfKUzsZp8kjq5mPVmHJqymxEi6rYUlIW3yPKrmIdsHaJiJJJNTZFNaKcElPW3cuQwRIBJIsu0kxDpCmpTdUlCn7By5gLSpbZ2uy6J2GrLHAZVBRTcbt0W8yzbPlq3t67WEYCujEl28ZUG6gG/CiD/VzIGA6gZLUuNpsEviT2j3M4THKoRC5cnNxlMoNaoOxRISRQkqGNZDvyVwPbBPDhNoGSsNdiLac8b7JPOEvbjZHL7CdjmCPq7gotHdkg7gKHAw7j7Qz5dldnJ5O20goLI1QQypAO/6eYnxOr9kL5OY3S3c+T6StkdhTGoiOHvjnPmOfJd6Q8NwcjQvUqODtQdir8sZwKr3RQ4dV6Fcop6MH3wH3MCvEiXsSLeBEv4kW8iBfxIl7Ei3gRL+JFvIgX8SJexHuKd/jnb+iB/AVawPCB</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">5795</CustomData>
-				<CustomData name="VSTChunkSum">-83</CustomData>
+				<CustomData name="VSTChunkSum">394</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<BiduleGroup id="UID_1316970543" displayName="tailArgot 13" zoom="1" type="com.plogue.groups.tail" processingMode="process" author="Hansje" version="1.0">
@@ -23208,7 +23201,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Channel index="2" name="Audio R" direction="input" type="samples"/>
 				<Channel index="0" name="Audio L" direction="output" type="samples"/>
 				<Channel index="1" name="Audio R" direction="output" type="samples"/>
-				<Presets uSize="65843" checkSum="-2367">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</Presets>
+				<Presets uSize="65843" checkSum="-525">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</Presets>
 				<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -23516,7 +23509,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 						<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 						<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 						<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-						<Parameter id="0" userMin="1" userMax="1000" lockedForRandom="false" mutationFactor="0.1">366.757385</Parameter>
+						<Parameter id="0" userMin="1" userMax="1000" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 					</Bidule>
 					<Bidule id="UID_1368819600" type="com.plogue.LogicGate" displayName="=&lt;" processingMode="process">
 						<Geometry x="177" y="323" w="0" h="0"/>
@@ -24969,7 +24962,7 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 						<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 						<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 						<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-						<Parameter id="0" userMin="1" userMax="1000" lockedForRandom="false" mutationFactor="0.1">366.757385</Parameter>
+						<Parameter id="0" userMin="1" userMax="1000" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 					</Bidule>
 					<Bidule id="UID_1382481427" type="com.plogue.LogicGate" displayName="=&lt;" processingMode="process">
 						<Geometry x="177" y="323" w="0" h="0"/>
@@ -26838,10 +26831,10 @@ turn of player
 				<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJztWMtu2zAQzD/0B1TdKy/fJOAaiJumlzZp6yJAT4YaK7FQ2XJsOUX+vquXLUukEqeHXqxDEMzOLpfc4ZL0zQf69uebs7Phj4vvN9eTSRLf/v74zUvSP+NwOfsUxsuv4TpcvPff0QD8Gr9cRw8VLvkOnczDVVTBk3mU3PneIp614pBA7+BGGCGE783j+3l7WBGQvaHhwAXA3mAZOnr4ks6ipAbTxzjKcnQSZhV2fYe0+aoRtEDSbYacpvPneBmF69pysY4f67FkvigINzKGHPr1tAo3m2bUBcarc8midZTulm3c5ZbL0zXU0+1awm2WNpK4XvrewzZM4uypQi63SeKPhkl6H9+Gia3AJDDFpzUoA4oAt9c7gPwjwiipuRHKWn9w1L7w5dQQwTin3C4FHpR5GCwyDsOcyiiioRAkJkykWyh5ykwIRjUBSu2ygbZk2KFaoKUVAjapgEMl5ZoprQkzjLOOaFqSgQPBkMofCMd54kSpXTxglw44hAMd2ZC2asAfjIardbSJso0X3mY4p5xVY970Kp0WbtOrcBHhvxfRXbhNstxtUPmNhufe9LzwLbhoGjeAfVdpb6Ku+DQc12yKMF2F0YPe0eZbNEQoHNVtzhfRGrfZ8tRv3P3GWmBlyiakqKaUSq71y7uLs9RBufUoE5wrYy+8u+y5NzfaCE61eWHrgFPrKFvHYDwabpezFP/GXrrCevjeKq6MJ+gEnaATdIL+HSIlhAfU8tFq4ZUlkHiWKTwPjCaKCUpNl8tqrujaoMdGahtVRhE8wiUQJqQA2ZePAEPxIaEY4Vwwwnq4QuO1gFGiDZ6HXErdkzuXyCHUMHxqKInJdLmy5ioqKFcCMLY0UjBLDjuukFprxoThDK8owC1zI9xZhtpE/q/XfjYMn3BGGQYGNAVm4WrnALUlYOWHKyIV52Apy44qy0/jKuPtDl+RffJDjpJgBDFGoET6ZMTBSAaKC8kNY0qpLlf0SPcYKezicHyhSnzSatS7zp+1lhoYd+Xcm5WoZ022gK/ycifozm8vH8ilI4giRkohqGXVXxPf7aOfs7hlepTPi7ZV40Wc33XLi+7g4Je00dlfZAJ2dQ==</CustomData>
+				<CustomData name="VSTChunk">eJztWNtu2zAM7T/sBzy/z6Ek6gZkAZp13cu2bsvQ18Br3MaYE6ep06F/P/qWOLacNgWGvcQPRXF4SFHiESXl+gN/m7w5Oxv+vPhxfTWZJPHN74/fvST9Mw6Xs09hvPwWrsPFe/8dD8Cv8ct1dF/hCrfoZB6uogqezKPk1vcW8awVhwVmCzfCSCl9bx7fzdvDyoDtDA0HlAA7g2Po6P5LOouSGkwf4yjL0UmYVdjVLdHmq0bQAkk3GXGazp/jZRSua8vFOn6sx1L5ohDcyBhy6NfTKnx4aEZdULw6lyxaR+l22cZdbrk8XUM93a4l3GRpI4mrpe/db8Ikzp4q5HKTJP5omKR38U2YuArMAlt8xoC2oBmgu94B5B+TViuDVmpn/aGn9oUvcsukQOTolgIGZR6WikzDiF5lFNFICIoSZqpfKHnKQkrBDQPO3bKBtmTEvlqgpRUGLqlAj0rKNdPGMGEFio5oWpKBPcGwyh8Y0jxpotwtHnBLB3qEAx3ZsLZqwB+Mhqt19BBlD154k9GcclaNedOv6bRwm34NFxH9exHdhpsky90Gld9oeO5NzwvfgkumcQPYdZX2JuqKz8BxzaYI01UY3+sdbb5DQ4zDUd3mfBGtaZstT/2mv984C6xt2YQ0N5xzhca8vLv0ljootx4XElFbd+H7y557ozVWIjf2ha0DTq2jbB2D8Wi4Wc5S+ht76Yrq4XuruDKeoBN0gk7QCfonECshOrOWj04LVpZA0fGm6YiwhmkhObddrqi5smuDAzZW27i2mtGproAJqSSoQ/lIsJzeFlowRCmYOMCVhm4KgjNj6YhEpcyB3FERh3Er6PWhFSXT5aqaq7nkqCVQbGWVFI4ctlypjDFCSIuCbi2Ajrkx7C1DbWL/12s3G0GvOqutAAuGg3BwTe8AtSUQ5UcrojQiOMqyparyM7TKdOGjh+Uh+RFHK7CSWStJIodkhGCVAI1SoRVCa93lygPSPUYK2zhIj1ZFr1xDejf5S9dRA9tfuf7NyvSzJlfAV3n1J9if304+kEtHMs2sUlJyx6q/Jn6/j3nO0i/To3xetK0aj+T8+lvefQd7P66Nzv4CGB57aw==</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">4962</CustomData>
-				<CustomData name="VSTChunkSum">-5006</CustomData>
+				<CustomData name="VSTChunkSize">4981</CustomData>
+				<CustomData name="VSTChunkSum">-3085</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1419701450" type="908406121" displayName="ThrillseekerLA.64_0" processingMode="process">
@@ -26870,10 +26863,10 @@ turn of player
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.580656</Parameter>
 				<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxMkBxc/sZSEXuQ+pTUtMTSnBIGQyMG1gaGBawVjAtYDYA4YIqXQDAQM6CYDTffvtBWyf6+P6P9rJmedlBxMD575owdhN1gX5aZV5KYnqqQX1CSz8AwnzVBQFVA5+Vcho7/QDafKprZcGDvlHDXLi3NDmjHKxSzQZKXBG0hZicWZSYm5aQquOcyhDAwEHA3wuwlBbF2O+SO2j2sErGFmX32jA8Yw9QXl6emZBZnKCTnpCbmKeTnpTIQZ7Z8a7fdm0AJu0LbVRjuTjPvAoulFJXmKiQWF6fmAh1fxEAgTBDhbd7JCHb3ka8aYHcvKWCFh3dG+QKw2WmJmUWVCqYM+QwwdwPNfkLY7Jh+JbvW15L2NSJ6tuhxyeGSgWS2GYOhKSnpRML++W9OmDjY7P5DV+1gZm9kl4KaXVwCSSSkhQks4A9/XQF396yZkmAMkwObnViskKjg5hrCAA0TXgYks7ECe1QuPExQQEBRfnpRYq6CoQGuMKGC2YYMKGnwBdDdDUCaKmYbMQDDhEbuNmbAkS+pYLYJqrupGiamDOA0SBN3m2FPJwCUSAki</CustomData>
+				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxMkBxc/sZSEXuQ+pTUtMTSnBIGjXYtNos2LTYDIP0CSC9oBfKBbAYUs+Hm2xfaKtnf92e0nzXT0w4qDsZnz5yxg7Ab7Msy80oS01MV8gtK8hm4uNkUOLnZJP5ysf34xsWm8IULzWw4sHdKuGuXlmYHtOMVitkgyUuCthCzE4syE5NyUhXccxl+COuwfxDRYV8BxAlA9g8gjcvsJQWxdjvkjto9rBKxhZl99owPGMPUF5enpmQWZygk56Qm5ink56UyqAro8AClgGYn8KkK4DJbvrXb7k2ghF2h7SoMd6eZd4HFUopKcxUSi4tTc4GOL2JgSxAAms3BwOAADG9MsxHhbd7JCHb3ka8aYHcvKWCFh3dG+QKw2WmJmUWVCqYMGh7AuHMHxiWQfgGkF7gB+R644zKmX8mu9bWkfY2Ini16XHK4ZCCZbcZAXJjA2BL2z39zwsTBZvcfumoHM3sjuxTU7OISSCJRYasQBroXiE8A8QcglhDB7W5YwB/+ugLu7lkzJcEYJgc2O7FYIVHBzTWEAehWAXR3YwX2qFx4mKCAgKL89KLEXAVDAwZ27GmQCmYb0tBsIwYc6YQKZhvT0N0mNDTblIZhYsaANe8AAKDj8ug=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">1472</CustomData>
-				<CustomData name="VSTChunkSum">-245</CustomData>
+				<CustomData name="VSTChunkSum">-1293</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1421947310" type="1146504771" displayName="LightweightCompressor_3" processingMode="process">
@@ -27215,106 +27208,108 @@ turn of player
 	<ParameterLink producerId="UID_1279834756" producerParamId="0" listenerId="UID_1279834758" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1279755180" producerParamId="0" listenerId="UID_1251409744" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279755179" producerParamId="0" listenerId="UID_1254011200" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501538114" producerParamId="0" listenerId="UID_1501538108" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501538114" producerParamId="0" listenerId="UID_1501538104" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279755181" producerParamId="0" listenerId="UID_1251409745" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1318078102" producerParamId="0" listenerId="UID_1318078108" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1318078106" producerParamId="0" listenerId="UID_1256389626" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1318078096" producerParamId="0" listenerId="UID_1318078099" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279834776" producerParamId="0" listenerId="UID_1279834779" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1318078092" producerParamId="0" listenerId="UID_1318078098" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059640" producerParamId="0" listenerId="UID_1469059664" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1318078096" producerParamId="0" listenerId="UID_1318078099" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1318078102" producerParamId="0" listenerId="UID_1318078108" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1318078106" producerParamId="0" listenerId="UID_1256389626" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1501438515" producerParamId="0" listenerId="UID_1251461343" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1469059642" producerParamId="0" listenerId="UID_1469059645" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1217858082" producerParamId="-5" listenerId="UID_1217858080" listenerParamId="-5"/>
+	<ParameterLink producerId="UID_1469059640" producerParamId="0" listenerId="UID_1469059664" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1238859967" producerParamId="-2" listenerId="UID_1303322980" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1253746230" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1238937649" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1283541938" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1303059710" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1251395627" listenerParamId="1"/>
-	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1318018470" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1286573974" producerParamId="0" listenerId="UID_1238784727" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279961684" producerParamId="0" listenerId="UID_1279961647" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1254952257" producerParamId="-2" listenerId="UID_1248437721" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1192654498" producerParamId="-2" listenerId="UID_1303322984" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059645" producerParamId="1" listenerId="UID_1501281388" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1279755178" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059664" producerParamId="1" listenerId="UID_1468623307" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1199546462" producerParamId="1" listenerId="UID_1238700758" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279834779" producerParamId="1" listenerId="UID_1241993924" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279753451" producerParamId="57" listenerId="UID_1248437721" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1251461343" producerParamId="1" listenerId="UID_1238859967" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1277838716" producerParamId="0" listenerId="UID_1320182910" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279723669" producerParamId="13" listenerId="UID_1279753451" listenerParamId="31"/>
+	<ParameterLink producerId="UID_1192654498" producerParamId="-2" listenerId="UID_1303322984" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279753451" producerParamId="57" listenerId="UID_1248437721" listenerParamId="-8"/>
+	<ParameterLink producerId="UID_1469059645" producerParamId="1" listenerId="UID_1501281388" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1254952257" producerParamId="-2" listenerId="UID_1248437721" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1279755178" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1199546462" producerParamId="1" listenerId="UID_1238700758" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1469059664" producerParamId="1" listenerId="UID_1468623307" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1269282326" producerParamId="0" listenerId="UID_1258251644" listenerParamId="26"/>
-	<ParameterLink producerId="UID_1269282330" producerParamId="0" listenerId="UID_1258251644" listenerParamId="38"/>
+	<ParameterLink producerId="UID_1269282308" producerParamId="0" listenerId="UID_1258251644" listenerParamId="11"/>
+	<ParameterLink producerId="UID_1269282332" producerParamId="0" listenerId="UID_1258251644" listenerParamId="28"/>
 	<ParameterLink producerId="UID_1238784697" producerParamId="-2" listenerId="UID_1280511856" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269282310" producerParamId="0" listenerId="UID_1258251644" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1269282324" producerParamId="0" listenerId="UID_1258251644" listenerParamId="14"/>
+	<ParameterLink producerId="UID_1269282320" producerParamId="0" listenerId="UID_1258251644" listenerParamId="24"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1258251644" listenerParamId="10"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1303319643" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1318078098" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269282308" producerParamId="0" listenerId="UID_1258251644" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1269282320" producerParamId="0" listenerId="UID_1258251644" listenerParamId="24"/>
-	<ParameterLink producerId="UID_1269282324" producerParamId="0" listenerId="UID_1258251644" listenerParamId="14"/>
+	<ParameterLink producerId="UID_1269282310" producerParamId="0" listenerId="UID_1258251644" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1269282328" producerParamId="0" listenerId="UID_1258251644" listenerParamId="41"/>
+	<ParameterLink producerId="UID_1269282330" producerParamId="0" listenerId="UID_1258251644" listenerParamId="38"/>
 	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700758" listenerParamId="4"/>
 	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700756" listenerParamId="475"/>
 	<ParameterLink producerId="UID_1269282382" producerParamId="0" listenerId="UID_1238700758" listenerParamId="5"/>
-	<ParameterLink producerId="UID_1269282332" producerParamId="0" listenerId="UID_1258251644" listenerParamId="28"/>
-	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1258251685" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1403986688" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281795990" producerParamId="0" listenerId="UID_1403986669" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1280077883" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1403986692" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796037" producerParamId="0" listenerId="UID_1239056342" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1258251647" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1403986684" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796027" producerParamId="0" listenerId="UID_1239056209" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1280077864" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1403986683" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796045" producerParamId="0" listenerId="UID_1199546462" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796031" producerParamId="0" listenerId="UID_1280077845" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796025" producerParamId="0" listenerId="UID_1403986668" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796039" producerParamId="0" listenerId="UID_1239056323" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796033" producerParamId="0" listenerId="UID_1239056361" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796035" producerParamId="0" listenerId="UID_1239056380" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796043" producerParamId="0" listenerId="UID_1239056190" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1258251666" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1403986686" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1280077826" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1403986690" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970561" producerParamId="0" listenerId="UID_1316970543" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819592" producerParamId="0" listenerId="UID_1368819626" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819598" producerParamId="-2" listenerId="UID_1368819652" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819598" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819624" producerParamId="0" listenerId="UID_1368819592" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1368819658" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368807071" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403986658" producerParamId="0" listenerId="UID_1239056188" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1382481419" producerParamId="0" listenerId="UID_1382481453" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1382481425" producerParamId="-2" listenerId="UID_1368807066" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1382481425" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1382481451" producerParamId="0" listenerId="UID_1382481419" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403979941" producerParamId="0" listenerId="UID_1396475291" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986657" producerParamId="0" listenerId="UID_1258251641" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986662" producerParamId="0" listenerId="UID_1258251644" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986664" producerParamId="0" listenerId="UID_1258251643" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986666" producerParamId="0" listenerId="UID_1434648806" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986660" producerParamId="0" listenerId="UID_1258164975" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1396475291" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1379621737" listenerParamId="205"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1316970535" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1303150567" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1239056417" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1238884702" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1251395627" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1480619520" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1501541322" producerParamId="0" listenerId="UID_1501538106" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501541320" producerParamId="0" listenerId="UID_1247940295" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501541318" producerParamId="0" listenerId="UID_1469994920" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1217857825" producerParamId="0" listenerId="UID_1217857649" listenerParamId="-5"/>
-	<ParameterLink producerId="UID_1217857910" producerParamId="0" listenerId="UID_1217857985" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1217858082" producerParamId="-5" listenerId="UID_1217858080" listenerParamId="-5"/>
+	<ParameterLink producerId="UID_1239056342" producerParamId="1" listenerId="UID_1238884177" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056380" producerParamId="1" listenerId="UID_1239056174" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1238700759" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1382481331" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056323" producerParamId="1" listenerId="UID_1217857626" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056361" producerParamId="1" listenerId="UID_1239056175" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986664" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986686" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986657" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986683" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986660" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986692" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986662" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986688" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1316970543" producerParamId="1" listenerId="UID_1316970541" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986658" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986690" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986666" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986684" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1280077845" producerParamId="1" listenerId="UID_1251409742" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="141" listenerId="UID_1248437719" listenerParamId="3"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="145" listenerId="UID_1248437719" listenerParamId="5"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="910" listenerId="UID_1248437719" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="1039" listenerId="UID_1248437719" listenerParamId="2"/>
+	<ParameterLink producerId="UID_1218312376" producerParamId="0" listenerId="UID_1217858247" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1218312395" producerParamId="0" listenerId="UID_1217858267" listenerParamId="14"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1664" listenerId="UID_1468623307" listenerParamId="4"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1667" listenerId="UID_1238784738" listenerParamId="11"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1238784738" listenerParamId="15"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1468623307" listenerParamId="4"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1320182804" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1669" listenerId="UID_1192654498" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1669" listenerId="UID_1238784738" listenerParamId="7"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1670" listenerId="UID_1238784738" listenerParamId="27"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1671" listenerId="UID_1238784738" listenerParamId="31"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1680" listenerId="UID_1320182803" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1683" listenerId="UID_1238784738" listenerParamId="8"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1684" listenerId="UID_1238784738" listenerParamId="12"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1684" listenerId="UID_1320182804" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1685" listenerId="UID_1238784738" listenerParamId="64"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1686" listenerId="UID_1238784738" listenerParamId="24"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1687" listenerId="UID_1238784738" listenerParamId="28"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1696" listenerId="UID_1238784738" listenerParamId="2"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1697" listenerId="UID_1279753426" listenerParamId="39"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1699" listenerId="UID_1238784738" listenerParamId="10"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1700" listenerId="UID_1382481331" listenerParamId="4"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1702" listenerId="UID_1238784738" listenerParamId="26"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1703" listenerId="UID_1238784738" listenerParamId="30"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1227630986" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1286572398" listenerParamId="74"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1248437719" listenerParamId="5"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1715" listenerId="UID_1279753519" listenerParamId="9"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1716" listenerId="UID_1279753519" listenerParamId="12"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1717" listenerId="UID_1279723669" listenerParamId="13"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1718" listenerId="UID_1238784738" listenerParamId="25"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1719" listenerId="UID_1238784738" listenerParamId="29"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1729" listenerId="UID_1279753451" listenerParamId="25"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1731" listenerId="UID_1238700758" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1732" listenerId="UID_1382481331" listenerParamId="12"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1734" listenerId="UID_1277838716" listenerParamId="2"/>
+	<ParameterLink producerId="UID_1358684047" producerParamId="1735" listenerId="UID_1277838716" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1269427674" producerParamId="0" listenerId="UID_1269427660" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1269282406" producerParamId="0" listenerId="UID_1238700758" listenerParamId="11"/>
+	<ParameterLink producerId="UID_1280511873" producerParamId="0" listenerId="UID_1279753482" listenerParamId="51"/>
+	<ParameterLink producerId="UID_1279834758" producerParamId="1" listenerId="UID_1241983328" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279834779" producerParamId="1" listenerId="UID_1241993924" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1277838716" producerParamId="0" listenerId="UID_1320182910" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279723669" producerParamId="13" listenerId="UID_1279753451" listenerParamId="31"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="74" listenerId="UID_1238784738" listenerParamId="3"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="75" listenerId="UID_1238784738" listenerParamId="7"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="76" listenerId="UID_1238784738" listenerParamId="11"/>
@@ -27374,94 +27369,92 @@ turn of player
 	<ParameterLink producerId="UID_1430997895" producerParamId="1131" listenerId="UID_1279724772" listenerParamId="10"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="1132" listenerId="UID_1238700758" listenerParamId="106"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="1132" listenerId="UID_1279724772" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986660" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986692" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056342" producerParamId="1" listenerId="UID_1238884177" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1238700759" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056380" producerParamId="1" listenerId="UID_1239056174" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1280077845" producerParamId="1" listenerId="UID_1251409742" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1382481331" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056323" producerParamId="1" listenerId="UID_1217857626" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056361" producerParamId="1" listenerId="UID_1239056175" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986664" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986686" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986662" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986688" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986658" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986690" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986666" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986684" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986657" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986683" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970543" producerParamId="1" listenerId="UID_1316970541" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1218312376" producerParamId="0" listenerId="UID_1217858247" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1218312395" producerParamId="0" listenerId="UID_1217858267" listenerParamId="14"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1664" listenerId="UID_1468623307" listenerParamId="4"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1667" listenerId="UID_1238784738" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1238784738" listenerParamId="15"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1468623307" listenerParamId="4"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1668" listenerId="UID_1320182804" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1669" listenerId="UID_1192654498" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1669" listenerId="UID_1238784738" listenerParamId="7"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1670" listenerId="UID_1238784738" listenerParamId="27"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1671" listenerId="UID_1238784738" listenerParamId="31"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1680" listenerId="UID_1320182803" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1683" listenerId="UID_1238784738" listenerParamId="8"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1684" listenerId="UID_1238784738" listenerParamId="12"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1684" listenerId="UID_1320182804" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1685" listenerId="UID_1238784738" listenerParamId="64"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1686" listenerId="UID_1238784738" listenerParamId="24"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1687" listenerId="UID_1238784738" listenerParamId="28"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1696" listenerId="UID_1238784738" listenerParamId="2"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1697" listenerId="UID_1279753426" listenerParamId="39"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1699" listenerId="UID_1238784738" listenerParamId="10"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1700" listenerId="UID_1382481331" listenerParamId="4"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1702" listenerId="UID_1238784738" listenerParamId="26"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1703" listenerId="UID_1238784738" listenerParamId="30"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1227630986" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1286572398" listenerParamId="74"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1705" listenerId="UID_1248437719" listenerParamId="5"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1715" listenerId="UID_1279753519" listenerParamId="9"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1716" listenerId="UID_1279753519" listenerParamId="12"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1717" listenerId="UID_1279723669" listenerParamId="13"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1718" listenerId="UID_1238784738" listenerParamId="25"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1719" listenerId="UID_1238784738" listenerParamId="29"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1729" listenerId="UID_1279753451" listenerParamId="25"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1731" listenerId="UID_1238700758" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1732" listenerId="UID_1382481331" listenerParamId="12"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1734" listenerId="UID_1277838716" listenerParamId="2"/>
-	<ParameterLink producerId="UID_1358684047" producerParamId="1735" listenerId="UID_1277838716" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1253746230" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1238937649" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1283541938" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1303059710" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1251395627" listenerParamId="1"/>
+	<ParameterLink producerId="UID_1430997894" producerParamId="7" listenerId="UID_1318018470" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1217857995" producerParamId="0" listenerId="UID_1217857991" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1217857997" producerParamId="0" listenerId="UID_1217857993" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269427674" producerParamId="0" listenerId="UID_1269427660" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269282406" producerParamId="0" listenerId="UID_1238700758" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1280511873" producerParamId="0" listenerId="UID_1279753482" listenerParamId="51"/>
-	<ParameterLink producerId="UID_1217858507" producerParamId="-5" listenerId="UID_1217858509" listenerParamId="-5"/>
 	<ParameterLink producerId="UID_1217858200" producerParamId="0" listenerId="UID_1217858159" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1217857825" producerParamId="0" listenerId="UID_1217857649" listenerParamId="-5"/>
+	<ParameterLink producerId="UID_1217857910" producerParamId="0" listenerId="UID_1217857985" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1279961684" producerParamId="0" listenerId="UID_1279961647" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1286573974" producerParamId="0" listenerId="UID_1238784727" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1399330489" producerParamId="1894" listenerId="UID_1396475291" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1399330489" producerParamId="1896" listenerId="UID_1396475291" listenerParamId="2"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="141" listenerId="UID_1248437719" listenerParamId="3"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="145" listenerId="UID_1248437719" listenerParamId="5"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="910" listenerId="UID_1248437719" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="1039" listenerId="UID_1248437719" listenerParamId="2"/>
-	<ParameterLink producerId="UID_1501538099" producerParamId="-2" listenerId="UID_1280511871" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1279834758" producerParamId="1" listenerId="UID_1241983328" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1238934918" producerParamId="0" listenerId="UID_1238934916" listenerParamId="6"/>
-	<ParameterLink producerId="UID_1303066218" producerParamId="0" listenerId="UID_1303150567" listenerParamId="-8"/>
-	<ParameterLink producerId="UID_1316970563" producerParamId="0" listenerId="UID_1316970533" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970563" producerParamId="0" listenerId="UID_1316970535" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970567" producerParamId="0" listenerId="UID_1316970535" listenerParamId="-8"/>
-	<ParameterLink producerId="UID_1429999143" producerParamId="0" listenerId="UID_1429982396" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541569" producerParamId="-2" listenerId="UID_1280511871" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819592" producerParamId="0" listenerId="UID_1368819626" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819598" producerParamId="-2" listenerId="UID_1368819652" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819598" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819624" producerParamId="0" listenerId="UID_1368819592" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1368819658" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368807071" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1382481419" producerParamId="0" listenerId="UID_1382481453" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1382481425" producerParamId="-2" listenerId="UID_1368807066" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1382481425" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1382481451" producerParamId="0" listenerId="UID_1382481419" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403979941" producerParamId="0" listenerId="UID_1396475291" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986657" producerParamId="0" listenerId="UID_1258251641" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986658" producerParamId="0" listenerId="UID_1239056188" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986660" producerParamId="0" listenerId="UID_1258164975" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986666" producerParamId="0" listenerId="UID_1434648806" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986664" producerParamId="0" listenerId="UID_1258251643" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986662" producerParamId="0" listenerId="UID_1258251644" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1396475291" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1379621737" listenerParamId="205"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1316970535" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1303150567" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1239056417" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1238884702" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1251395627" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1480619520" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1501541589" producerParamId="0" listenerId="UID_1501541583" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541589" producerParamId="0" listenerId="UID_1501541579" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541595" producerParamId="0" listenerId="UID_1501543394" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541597" producerParamId="0" listenerId="UID_1501541581" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541593" producerParamId="0" listenerId="UID_1501543402" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796035" producerParamId="0" listenerId="UID_1239056380" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1280077883" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1403986692" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796045" producerParamId="0" listenerId="UID_1199546462" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795990" producerParamId="0" listenerId="UID_1403986669" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1258251647" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1403986684" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796025" producerParamId="0" listenerId="UID_1403986668" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1258251685" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1403986688" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796027" producerParamId="0" listenerId="UID_1239056209" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1258251666" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1403986686" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1280077826" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1403986690" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796039" producerParamId="0" listenerId="UID_1239056323" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796043" producerParamId="0" listenerId="UID_1239056190" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796033" producerParamId="0" listenerId="UID_1239056361" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796031" producerParamId="0" listenerId="UID_1280077845" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796037" producerParamId="0" listenerId="UID_1239056342" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1280077864" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1403986683" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1316970561" producerParamId="0" listenerId="UID_1316970543" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="6"/>
 	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="197"/>
 	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="133"/>
+	<ParameterLink producerId="UID_1303066218" producerParamId="0" listenerId="UID_1303150567" listenerParamId="-8"/>
+	<ParameterLink producerId="UID_1316970567" producerParamId="0" listenerId="UID_1316970535" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1277838717" producerParamId="0" listenerId="UID_1279753449" listenerParamId="198"/>
 	<ParameterLink producerId="UID_1277838717" producerParamId="0" listenerId="UID_1279753449" listenerParamId="134"/>
 	<ParameterLink producerId="UID_1303066221" producerParamId="0" listenerId="UID_1303322976" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1303066221" producerParamId="0" listenerId="UID_1303150567" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1316970563" producerParamId="0" listenerId="UID_1316970533" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1316970563" producerParamId="0" listenerId="UID_1316970535" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1429999141" producerParamId="0" listenerId="UID_1429982396" listenerParamId="-8"/>
+	<ParameterLink producerId="UID_1429999143" producerParamId="0" listenerId="UID_1429982396" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1429999147" producerParamId="0" listenerId="UID_1429982398" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1429999151" producerParamId="0" listenerId="UID_1429982398" listenerParamId="-8"/>
+	<ParameterLink producerId="UID_1238934918" producerParamId="0" listenerId="UID_1238934916" listenerParamId="6"/>
+	<ParameterLink producerId="UID_1217858507" producerParamId="-5" listenerId="UID_1217858509" listenerParamId="-5"/>
 	<SyncLink source="UID_1238934916" destination="UID_1227630986"/>
 	<SyncLink source="UID_1238934916" destination="UID_1227630979"/>
 	<SyncLink source="UID_1238934916" destination="UID_1279723669"/>
