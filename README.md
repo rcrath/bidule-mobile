@@ -1,0 +1,1 @@
+Bidule layout for live usage.  Has a zillion vsts and parameter links to my specific plugins and controllers, but may be useful to someone.
