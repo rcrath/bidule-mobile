@@ -136,7 +136,7 @@
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
+				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">4.0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1227885035" type="com.plogue.BinaryOperator" displayName="+" processingMode="process">
 				<Geometry x="156.5" y="-42.5" w="0" h="0"/>
@@ -3181,10 +3181,10 @@
 				<Parameter id="125" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="126" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="127" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJwBgAN//ENFR1A9EgAAeJztWE1v2zgQvS+w/4HQafcQiRQpkSziFq5T7xqo0aBODz0VtMzaQvXhlShvkl/foWQrSlpVag7txQPDJodvSL5HamTy8tVtmqCDLso4zyYOcbGDXr3884/LaRGrlTroTpuk1EH7It9UkVlcgQNj6QAWgV2utDFxti3Rf5VKYnMHzQ4qTaFVCu6JQ30Hpep2VXumSZJHy9cTxw9CBy0XV4t3lVnmG11HqcrkqTIw6CrJzcTBXVeiDzqZOHEGfVepzoyDkvigm2BAlhGMJbktqESBi6ALpO2k3DJKju4ZxOli4oQQsE3ytUpuqqyeJji8lhKMjuJN7cxUavsnLrquCo1mu3jvTT/C54JeCEkw+ou4XKLlv/d/O2itsi+LzVGgpwJGO5VllsIFUN3nSaOUeRh/v/5UqGyrjwgDlbJuSDvFPDKwOC1jH2RMK3N0/P8pUSUI165OTWep4uxE56CSqhHb+y6EtBDcB/GHIXQYwoYhwTAkHIbwYYgYhshhCMEjMCP0JSMEJiMUJiMkJv0aX6tCpQPb5gHT4eVSijkWYeBzyngQBr1B4YiOO8vnBsIPOSciCGjAqH3EeoI6q+XykHIupeQCco5vn5eeIL+jqQtIzDi2RKiQvuiNomwECTZGQia6VDGVFMYPpAw5Zv1RYWfXuTBfwSmQFSL0CeM27fTFBSOmFI5aoe7aCyJr8wXjjP1AbSlGdC3lmK2HR21QTMag6KON7PuCspBhzghlol9MQv3nrB3pTgq7/tMn5UYVW22Or6AoT93rJN9W2rWvaPft/J1blbrA3Vxfh82qEl6aV8ootDN3e4gNeABKlvE9lIFP59UE0ulsE6umuIEYKJxs3vz4x+qVbFt43fbc77Od7WzPtidZwmvSxE8nDvLLEsfZzna232/PTxw3Rbzd6mIF52mdRboYkToYZfSUOuw/mzZz+N/LHKSZ4fxoTZ3XZTrjc/mIxwzT+Q+5XHr2CH+qvPn8WUeme6i3J2d7hGp4TtN1bFkNnN/3RR61tw3tXcE/HxanXlVk4oNePNxd1PU3bb3UCcxDb27U2tYf/ScsdKnNUmcVissT3tSUvkng0KBvwa3u1tX9PcxLmd3Emb3wPkBSL70ijnbedL+3a+G9z+tbGK8J92y414xVek+69Zr+XAXl2w5BDxjaeyHvdDEEla8LwS754SzBCQ==</CustomData>
+				<CustomData name="VSTChunk">eJwBfwOA/ENFR1A9EgAAeJztWEtv2zgQvi+w/4HQafcQiS+JZBG3cJ1610CNBnV66KmgZdYWqodXorxJfn1Hkq0oaVWpObQXDwybM/yG5DdDjUxevrpNYnQweRFl6cQhLnbQq5d//nE5zSO90gfT6VOMOWifZ5sytIsrMGCsHMAikMuVsTZKtwX6r9RxZO+g20GFzY1OwDxxGHVQom9XtWUax1m4fD1xqB84aLm4Wrwr7TLbmNpLlzZLtIVJV3FmJw7ummJzMPHEiVIYu0xMah0URwfTOAOyCGEuFVQNHWswEXSBTLUotwjjo3kGfiafOAE4bONsreObMq2XCQavpQSzo2hTG1OdVOMTF12XuUGzXbT3ph/hc8EupCIY/UVcodDy3/u/HbTW6ZfF5higpwEMdzpNKwoXQHWfxU2k7MP8+/WnXKdbc0RYUIq6I+k0s9BCclrG1AdbaY+G/z/FuoDAtdmp6Sx1lJ7oHHRcNsH2vgshLQT3QegwhA1D+DDEH4YEwxAxDJHDEDUMIXgEZkR8yYgAkxERJiNCTPpjfK1znQxsmwdMh5fLGBZYBj4VjAs/8HudghEDd9Ln+pIGQhDp+8znrHrEepw62XJFwIRQSgkJNYfSoNeJdmLqAhJzgSsiTCoqe70YH0GCjwkhl12qmCkG8/tKBQLzfq+gs+tcWK8UDMhKGVDCRVV2+vz8EUsKRmWom3tJVC1UcsH5D6Kt5IihlRqz9fCoDYrJGBR7tJEplYwHHAtOGJf9wSSMPid3pLso7NKnT8qNzrfGHl9BYZa413G2LY1bvaLdt/N3blmYHHdrfe02Kwt4aV5pq9HO3u3B1xc+RLKI7qENfDqvJgidSTeRbpob8IHGSebNDz2qV6rtEXXfc7/PcpazPFueVAmvKRM/XTjILyscZznLWX6/PL9w3OTRdmvyFZynTRqafETp4IyzU+mo/tm0lYN+r3KQZoXzozS6qNtsJubqEY8ZZvMfcrn0qiP8SXnz+bMJbfdQX52cq2NWw3OarKOK1cD5fZ9nYXvb0N4V/PNhcRpVhzY6mMXD3UWtv2n1wsSwDrO50etKf/SfMDeFsUuTligqTnhbU/qmgEOHuQWzvluX9/ewLm13E2f2wvsARb3w8ijcedP9vsqF9z6rb2G8xt2r3L1mrsJ7MqzXjOdqaN92CHrAsLoX8k4XQ6B8BeicLvZqnbUb</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">896</CustomData>
-				<CustomData name="VSTChunkSum">-797</CustomData>
+				<CustomData name="VSTChunkSize">895</CustomData>
+				<CustomData name="VSTChunkSum">1525</CustomData>
 			</Bidule>
 			<BiduleGroup id="UID_1279724772" displayName="bamboo OSC extract 03" zoom="0.85" type="com.plogue.groups.bamboo OSC extract 03" processingMode="mute" author="music" version="1.0">
 				<Geometry x="-271.476" y="107.553" w="0" h="0"/>
@@ -6377,10 +6377,10 @@
 					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
 					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
 					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.100000</Parameter>
-					<CustomData name="VSTChunk">eJxtkz9v00AYxl8WvEQoayWGkxAIBhbMWL8uKuKfOkQUipA6xI18sVFyTu/sinbKxNQNlvPUiYkvwNYd+wOwMUX9CLDxvmfTmCQnneyT/P78PI8fAwBY+wfrqoePfYMA88Da9yHAjPbcXevqNu1euKtPTR5NRJKOEwNagBrFwCtT3vDW3X5pt4izF9RVFUh5j+7PUcpFUNq0ZQ2Ic8j3wfNY5ZNYHGWZyWEDC9ol5SfSNAyZ/YM0Er9lDVkTVvSug2hUFFORF0exmOnYxGusecAcKb8ic3zfJ+Yv7OoC2MExPfNklBUmT0diXKR55HSdglLe/anyLunKfmqn49xtZpX2Zdhl+ZSj739eYz0CMm3Ag7MP3u8r5bFEymq7rr4h62MWnVd0XZDHPXyqi6kRD0WskojtrXv8x+ohz/B8ab9f5yXlCWcYsu8VFukij6Rr8OVVf582Z8GZ8byUN2nugdPCjIabOs5YLvBFpE3SNmKTLvZGM8hX9sYaySdldMexfH+3ZW7h6+gs08IkkZ6JXEfKpC6vjsc+Z0vPXyL3q/EDsGQZ9x1vkP832UcKvtEFS5Y3mCnv6piz54w4s21mEO9ZyN+267Hp8QLfTkiNYwmp4+MiVqt58Wo6VlrrOiblQdjtapPpBXa7ChtYPEs7aP8l17HmvOwEvYPOP/FdpKfiZAmENV07zmPLa5kV/v9vH7q+7mcyvy7XBtZfT3JVXQ==</CustomData>
+					<CustomData name="VSTChunk">eJxtk79v00AUxx8LXiKUtRLDSahISLDUjPU5qIhf6lC1UITUIa51FxsldrizK9opE1M3WM5TJyb+ATZGJOwdNqaIPwE23rtzEzeNpWf7JL+Pv+973wMAMOYfb+oef+hrDjALjHkTAkyxZvbZ1LexeuGOOtVFNGZJOko0KLYFIis0eHufXvQPsCqzgZzdoKnrQMq7+H7OpZwHlUlb1h5yjug9eIqtY8GO81wXUB4LyOJToCvPvOGtzT60l5QfUNMwJPYP1Ij8ljUkTbzGfx1GcVlOWIEYNlVCiywWV1mzgDhSfubE8X0fmb95VxfAgI/wm0dxXuoijdmoTItIMVhh0TyN1XFui1iVeR52WT766Psfr7Eu/YKzt97fP5lHWPRqu6m/cNJHLFyv6LrAGXf5Y1VONHvARJZETtJm/z7ev4+XfjlWj1MP9Vfm68IvKU/Iw5DmXmEtdP2UmTdNSNfA5oD6pbyJffesFmI4bmo5IznnzyKlkzYRGnAfsZ9hXbJoNuzh9KTZSCPOiR7dsSzf32mZG3w/OssV00mkpqxQUabTVb/65C1+/41Tvtw8AEuWtvt4A+d/mb9H452udfvoPCLPtomBvCch7W13RpfjOX81RjWWxaQS70pBWe3k3iXVZawyxmZMysOwm1Xn6QXvZhXWsKgXK2jPks2YWy8zgf/A9S/+OlITdrIEXs/EwM7Y8lpmza+e7SOb14NcFotwrfHrP/CcU4Q=</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">1064</CustomData>
-					<CustomData name="VSTChunkSum">227</CustomData>
+					<CustomData name="VSTChunkSum">1045</CustomData>
 					<CustomData name="curProg">2</CustomData>
 				</Bidule>
 				<Bidule id="UID_1501541593" type="com.plogue.Gate" displayName="chorus I/O" processingMode="process">
@@ -20582,10 +20582,10 @@ the function implemented is: 0.5*x*(3 - x^2)
 				<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500100</Parameter>
-				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgoBdptxzO/eHE+wLjj+y25Vbah+9ebvd5tp0e5VmT5BZtks+idgHrrGzx23EKBhBAABo3g2V</CustomData>
+				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgtUHTPhiVznxs716oL99wvlDdroro+2ztl+1dwpvBZur1fHNzsN6Hrq5o2BkAgB3iA2j</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">2000</CustomData>
-				<CustomData name="VSTChunkSum">-1519</CustomData>
+				<CustomData name="VSTChunkSum">-1392</CustomData>
 				<CustomData name="curProg">6</CustomData>
 			</Bidule>
 			<Bidule id="UID_1239056175" type="1263814514" displayName="KTGran 12" processingMode="mute">
@@ -27203,10 +27203,10 @@ turn of player
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.580656</Parameter>
 				<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxM+6Ad9+xg8jeWitiD1KekpiWW5pQwGJoyJOYp5OelMqgK6PAwMDiUHGFL4FMVYEAxG26+faGtkv19f0b7WTM97aDiYHz2zBk7CLvBviwzryQxPVUhv6AknwFs9hG2Gx1H2AKmeAkEAzEDFneD9Dol3LVLS7MD2vEKxWyQ5CVBW4jZiUWZiUk5qQruuQwhDAh376jF5m6E2UsKYu12yB21e1glYgsz++wZHzCGqS8uT03JLM5QSM5JRQkTQmbLt3bbvQmUsCu0XYXh7jTzLrBYSlFprkJicXFqLtDxRQxsBmVH2F6U4goTRHibdzKC3X3kqwbY3UsKWOHhnVG+AGx2WmJmUaWCKQNx7kaYHdOvZNf6WtK+RkTPFj0uOVwykMw2YyAuLmFsCfvnvzlh4mCz+w9dtYOZvZFdCmp2cQkkkZBiNgM87A9/XQF396yZkmAMkwObnViskKjg5oqcThDpGyuwR+XCwwQFBBTlpxcl5ioYGjDgcDcVzDakodlGDLQLE2OQ2UfYFDoh7p7QfoRNA8imitkmILMZgO4+xDbj6SG2Bc8PsX14dIg6ZpvSMEyA2Yeh9QjbDyDeAMQZLcDwaDvCBgAECxUY</CustomData>
+				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxM+6Ad9+xg8jeWitiD1KekpiWW5pQwGBozJOYp5OelMhxhu9FxhC1gipdAMBAzoJgNN9++0FbJ/r4/o/2smZ52UHEwPnvmjB2E3WBflplXkpieqpBfUJLPQNBsOLB3Srhrl5ZmB7TjFYrZIMlLgrYQsxOLMhOTclIV3HMZUosYgGYfYpvx9BDbgueH2D48OsSGy+wlBbF2O+SO2j2sErGFmX32jA8Yw9QXl6emZBZnKCTnpBIRJgiz5Vu77d4EStgV2q7CcHeaeRdYLKWoNFchsbg4NRfoeILuRoS3eScj2N1HvmqA3b2kgBUe3hnlC8BmpyVmFlUqmDIYmsLiUlVAh4eBwaHkCFsCnyrOuIzpV7JrfS1pXyOiZ4selxwuGUhmm5FotoT989+cMHGw2f2HrtrBzN7ILgU1u7gEkkiICW+Eu2EBf/jrCri7Z82UBGOYHNjsxGKFRAU31xAGbOGNFdijcuFhggICivLTixJzFQwNcOUdKphtyEA7dxuBzEbE5Y5aWFxSwWxjhnyG1iNsP4B4AxBntBxhY2g7Qh13mwDNBoa1QdkRthelR9gWANOgRRmVzDalYZiYYY9LABb2Jdo=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">1472</CustomData>
-				<CustomData name="VSTChunkSum">2280</CustomData>
+				<CustomData name="VSTChunkSum">-2742</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1421947310" type="1146504771" displayName="LightweightCompressor_3" processingMode="process">
