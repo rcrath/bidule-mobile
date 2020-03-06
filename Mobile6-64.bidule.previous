@@ -136,7 +136,7 @@
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
+				<Parameter id="0" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1227885035" type="com.plogue.BinaryOperator" displayName="+" processingMode="process">
 				<Geometry x="156.5" y="-42.5" w="0" h="0"/>
@@ -1221,7 +1221,7 @@
 			<Geometry x="-212.501" y="-207.968" w="0" h="0"/>
 			<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 			<Gui state="normal" hidden="false" generic="true">
-				<Geometry x="1762" y="81" w="160" h="458"/>
+				<Geometry x="1776" y="31" w="160" h="458"/>
 			</Gui>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 			<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -1609,9 +1609,6 @@
 			<Channel index="32" name="MIDI Output Port 1" direction="output" type="midi"/>
 			<Channel index="33" name="MIDI Output Port 2" direction="output" type="midi"/>
 			<Channel index="34" name="pen" direction="output" type="midi"/>
-			<Gui state="normal" hidden="false" generic="true">
-				<Geometry x="53" y="86" w="462" h="429"/>
-			</Gui>
 			<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
 			<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -3184,10 +3181,10 @@
 				<Parameter id="125" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="126" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="127" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJwBfgOB/ENFR1A9EgAAeJztWEtv2zgQvi+w/4HQafcQiS+JZBG3cJ1610CNBnV66KmgZdYWqodXorxJfn1Hkq0oaVWpObQXD4KYHH5DzjdDD01evrpNYnQweRFl6cQhLnbQq5d//nE5zSO90gfTGVO+ctA+zzZlaBdXoMBYOYBFIJcrY22Ubgv0X6njyN7BsIMKmxudgHriMOqgRN+uas00jrNw+XriUD9w0HJxtXhX2mW2MbWVLm2WaAuLruLMThzcVcXmYOKJE6Uwd5mY1Doojg6mMQZkEU4cDn5BQ8caVARdIFM55RZhfFTPwM7kEycAg22crXV8U6a1m6DwWkqwOoo2tTLVSTU/cdF1mRs020V7b/oR/i7YhVQEo7+IKxRa/nv/t4PWOv2y2BwD9DSA4U6naUXhAqjus7iJlH1Yf7/+lOt0a44IC52iHkg6zSy0kJyWMZOgK+1R8f+nWBcQuDY7NZ2ljtITnYOOyybY3nchpIXgPggdhrBhCB+G+MOQYBgihiFyGKKGIQSPwIyILxkRYDIiwmREiEl/jK91rpOBbfOA6fByGcMCy8CngnHhB36vUTBi4k76XF/SQAgifZ/5nFVfsR6jTrZcETAhlFJCQs2hNOg1op2YuoDEXOCKCJOKyl4rxkeQ4GNCyGWXKmaKwfq+UoHAvN8q6Ow6F/yVggFZKQNKuGCs384f4VIwKkPd3EuiaqGSC85/EG0lR0yt1Jith0dtUEzGoNijjUypZDzgWHDCuOwPJmH0ObkjXaewS59+U250vjX2eASFWeJex9m2NG51RLtv5+/csjA57tb62mxWFnBoXmmr0c7e7cHWF9UBVET30AY+naMJQmfSTaSb5gZsoHGSefNBj90r1Y6Ieuy5/89ylrM8W55UCa8pEz9dOMgvKxxnOctZfr88v3Dc5NF2a/IV3KdNGpp8ROngjLNT6ah+2bSVg36vcpDGw/lRmr6o22wm5uoRjxlm8x9yufSqK/yp8+bzZxPa7qW+ujlXPjU8p8k6qlgN3N/3eRa2rw3tW8E/HxanWXVoo4NZPLxd1P03bb8wMfhhNjd6XfUf/SbMTWHs0qQliooT3taUvingMGBuQa3v1uX9Pfil7W7izF54H6CoF14ehTtvut9XufDeZ/UrjNeYe5W516xVeE+m9Zr5XA3t2w5BDxhW70Le6WEIOl8B98YvEfV4vb4=</CustomData>
+				<CustomData name="VSTChunk">eJwBfQOC/ENFR1A9EgAAeJztWE1v4zYQvRfofyB0ag+R+CWRLOIuvM66NVBjgzp76GlBy1xbWEpyJcpN8us7kmxHSVcrbQ7biwdBTA7fDPlm6KHJ6zf3qUUHU5RJnk084mMPvfn1xx+up0WiV/pgOmMqVB7aF/mmit3iBhQYKw+wCOR6ZZxLsm2J/q60TdwDDHuodIXRKagnHqMeSvX9qtFMrc3j5duJR8PIQ8vFzeJ95Zb5xjRWunJ5qh1MurK5m3i4q7LmYOzESzLwXaUmcx6yycG0xoAs44nHadPQVoOKoCtk6kX5ZWyP6hnYmWLiRYDb2nyt7V2VNcsERXCmBLOjZNMoM53W/omPbqvCoNku2QfTv+Dvil1JRTD6ifhCoeXvjz97aK2zz4vNMUAvAxjvdJbVFK6A6j63baTc0/z79cdCZ1tzRDjolM1A2mnmsYPkPDEGx2nljop/PlpdQuDO2WnoLHWSnegctK3aYAdfhJAzBPdB6DCEDUP4MCQchkTDEDEMkcMQNQwheARmRHzJiACTEREmI0JM+mN8qwudDmybJ0yHl88YFlhGIRWMizAKe42iEY476fNDSSMhiAxDFnJWf8V6jDrZ8kXEhFBKCQk1h9Ko14h2YuoDEnOBayJMKip7rRgfQYKPCSGXXaqYKQbzh0pFAvN+q6iz63xYrxQMyEoZUcIFY/124YglRaMy1M29JKoRKrng/CvRVnKEa6XGbD08aoNiMgbFnm1kSiXjEceCE8ZlfzAJo6/JHekuCvv05TflThdb445HUJyn/q3Nt5Xx6yPa/2P+3q9KU+BurW/MZlUJh+aNdhrt3MMebENRH0Bl8ght4NM5miB0Jtskum1uwAYaJ5m3H/TYvVHnEdGMvfb/RS5ykVfLiyoRtGXimwsH+W6F4yIXucj/L68vHHdFst2aYgX3aZPFphhROjjj7FQ66l8258pBv1Q5SLvC+VHavmjabCbm6hmPGWbzr3K5Duor/Knz7tMnE7vupb6+ObPodLmfpuukZjVwf98XeXx+bTi/Ffz2YXHyqmOXHMzi6e2i6b8790tjYR1mc6fXdf/Zb8LClMYtTVahpDzhXUPpPwUcBsw9qPXDunp8hHVpt5t4s1+CD1DUy6BI4l0w3e/rXAR/5s0rTNCaB7V50M5VBi/cBq0/X0P7vkMwAIb1u1BwehiCzr+hYC8ORBu/AA==</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">894</CustomData>
-				<CustomData name="VSTChunkSum">1705</CustomData>
+				<CustomData name="VSTChunkSize">893</CustomData>
+				<CustomData name="VSTChunkSum">2593</CustomData>
 			</Bidule>
 			<BiduleGroup id="UID_1279724772" displayName="bamboo OSC extract 03" zoom="0.85" type="com.plogue.groups.bamboo OSC extract 03" processingMode="mute" author="music" version="1.0">
 				<Geometry x="-271.476" y="107.553" w="0" h="0"/>
@@ -6339,10 +6336,10 @@
 					<Parameter id="8" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.875000</Parameter>
 					<Parameter id="9" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.137500</Parameter>
 					<Parameter id="10" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.100000</Parameter>
-					<CustomData name="VSTChunk">eJxtkz9v00AYxl8WvEQlI5UYTkIgMVRCmIGhfh1UxB+pA+JPEVKHuJEvtpTE4c6uCMrQqVM3Fs5TJya+ABsDG/YHYMuU78DG+57d2Elj6XQ+6e53z/P4MQCAMf+wLDr42NUIcOYZ89EHmNI4s3NZ3KHR8Q/UTKfBSETxMNJwEsJkEIIGeLIzd/o797q52SXOoVcWhSflfXq/QCmXXm7imvWaOMf87r0IJ+koFCdJolPIiAVzZ3Fr7gCxHnZprh8pz0lT32f2H9JI/JrVZ01Y0F1HwSDLxiIljJiqUIeVLgd+p87txczh+5gj5Xdkjuu6xFxgWxdAD4e05+kgyXQaD8Qwi9NACdhgsZ/S6riwg1m5eeW3WS7l6Lpfr7EewXpe7I+y2i+LH8j6mEXrDV2X5PEQn6lsrMWeCCdRwJI2dTWsDvIZPp+bn6u8pDzlDH32vcG60tVi9WwP+LyUN+ncA6uFGRU3tpyhXOLLQOmobsQ2FnujM8gze2ON5JMyumtZrntQM3fxTfAlUUJHgZqKVAUTHVNJmLXqRJezpf2/kPtV+QFoWNp+xxvk/13ymYKvdEH4KaNOzHhvkz1nxJntM4N4z33+tm2PVY+X+H5EaixLSHXFoq5+W+tq1bHcGNsxKY/8dlerTC+x3VXYkhefpeHV/5LtWLVuOkF30PovfgjUWJw2QLiWV896rHk1s8D1f/vY9vVtItNVubbo+g9ysFNc</CustomData>
+					<CustomData name="VSTChunk">eJx1k7Fv00AYxT+GIA8R8oaqtNJJqAgkGMAMHepzqiJaUIeqKUWIKoob+WJLSRzu7Kpl6gRLByRgOE+dgIE/ADZ27D+AjSkzKxvfd7YakxZLJ99Jvt+99+4ZAEDrP7zIm/yBozjAiav1cw9gguPEvIt8EUfTW5fHKvGHLIwGoQJ2D3Zb1u9Oy4L3T+wOjkwvIGfLLfLcFeImzk+5EFM301HF2kbOPs3djWCcDAN2EMcqAWSsVKzPOy2rjXOoHiFeo6aeR+wfqBH5FatHmniOZ+35/TQdsSQ9CNhEBioY9wNYXLK+frhuQWvJovOII8RHThzHcZD5i9d1AbT5AL9Z68epSqI+G6RR4ksGc7rIT2F0nJpBrEw/9uosB3N0nHcXWPdhXhcAZrVa5F846SMWrud0naHHLf5QpiPF7rJgHPpk7/+sJqc9tD/T387zEuKQMvTI9xwLdXUbbz+9aEDebay86TYoC8qM9gtxFffdNlqIUXIjwxmIKd/0pQqrRlx2j+QN93B6kzfSiD4xoxuG5TjrFXOB7/ivYslU6MsJS6Q/VhGWREHNo03Z4vffOfWr9AMwYylzj1fQ/258hMGXum6hlp69bN/Bbzdpfm3ZLjOizFaJgbxHHt1t3WPZ4yl/OkQ1hsWEDF6m2K9jqPW+bGrZsUxr0zEh9rx6V8tMz3i9q3AJi/bicKt/yXSsXM86gWfg+id/5ssRO5wB4UJebeOx4lXMnP/7b++bvnZikZyXq3aP25Wuv/GiTz8=</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">1064</CustomData>
-					<CustomData name="VSTChunkSum">-147</CustomData>
+					<CustomData name="VSTChunkSum">720</CustomData>
 					<CustomData name="curProg">2</CustomData>
 				</Bidule>
 				<Bidule id="UID_1501541593" type="com.plogue.Gate" displayName="chorus I/O" processingMode="process">
@@ -6471,10 +6468,10 @@
 					<Parameter id="16" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.666667</Parameter>
 					<Parameter id="17" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.300000</Parameter>
 					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<CustomData name="VSTChunk">eJzb4TY76W89A0N5ebleZnpeZklqYm5BsV5yfi4DGLS+DrQH0V815thVi+TZM2CABntbrul2ILr/0Fcb94dVKGpWr9KynzVzJlgexHe2igktTi0qjinKTM6IcSnKL0jKr4hJLE3JzI/JzC0ozSlOVShKLS7IzytOLY5xTM4vLS7JTI5xz0wqVnDKLEpRCM5Mz01ESATnl+alZOTnpMaYmOgZIquDSSgYJuqVJ5ZhOnzAwACEgVHyIAsDABT8dis=</CustomData>
+					<CustomData name="VSTChunk">eJzb4Sa95mc9A0N5ebleZnpeZklqYm5BsV5yfi4DGLS+DrQH0V815thVi+TZM2CABntbrul2ILr/0Fcb94dVKGpWr9KynzVzJlgexHe2igktTi0qjinKTM6IcSnKL0jKr4hJLE3JzI/JzC0ozSlOVShKLS7IzytOLY5xTM4vLS7JTI5xz0wqVnDKLEpRCM5Mz01ESATnl+alZOTnpMaYmOgZIquDSSgYJuqVJ5ZhOnzAwACEgVHyIAsDAIXvdfE=</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">632</CustomData>
-					<CustomData name="VSTChunkSum">2413</CustomData>
+					<CustomData name="VSTChunkSum">2045</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
 				<Bidule id="UID_1501543400" type="com.plogue.CrossFader" displayName="NadIR Xfade" processingMode="process">
@@ -6623,10 +6620,10 @@
 					<Parameter id="80" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 					<Parameter id="81" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 					<Parameter id="82" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-					<CustomData name="VSTChunk">eJztnW9MVnUUx8/z0JAEyUAIgeLJB40ChXuf+1eCIHMWSAlYrSKbS5tO5M+GkVgJs2YvKm3NzPXHSmqrrXjTi7YcIbZmhdVY5Spd/2fN9aLVi9YL6T6bbGf3+a3Om+69G98P+wI7+23cs+/ZPed37+U+n9ACupWIOvuJjLxj9R1/7l5sntGzXkiu7rprR3lizdj26o+bTzb+9Mfb+a/n0T2r/n6lpe7FjcXZk7Wloz+2bVv4QP/uimR358ET+T0jk/HcQ0fW37BvfXXvW9ZYMr9k3Pq+hej43nllBb8lB588dc328RKixp27bj9at2/FRHZt7dJ6osLkwc4sZ03/jldj9aNHK+68u4eoLz5d3D5yOpljvFnjFBB94+lcjOjaIqIf2jYNrvhs280dW4mWtNd7R07U3UB0o31Wr8kimm79rv3dZqLnRurvO/zOB+ucsceKluUQffH5p0P353y9/Phf01cNtHeUN9jV+ePaL4nBW56pem1DVxcl5m0Zropdd2z+yk2j++/I+nUZUcEeY+jLGqKmVqKXb3sjfnb08c2lpeV99qNluzac+tk8feT9RY98NbV678NEyf3n6h60lse//f35oaailoeGveOaOT8z/ybqoa004GkjdXvfh2gz4oj/X/HCKlpFvdRHOylBOll0tfdznbdmgO6lLd7v6S9NsdIWr3TEK13hyhTViVdq4pW6eGVKvNIQrzTFK6UepcQepcQepcQeGWKPDLFHhtgjQ+yRIfbIEHtkiD0yxB4ZYo8MsUem2CNT7JEp9sgUe2SKPTLFHplij0yxR6bYI1PskSX2yBJ7ZIk9ssQeWWKPLLFHltgjS+yRJfbIEntkiz2yxR7ZYo9ssUe22CNb7JEt9sgWe2SLPbLFHjlijxyxR47YI0fskSP2yBF75Ig9csQeOWKPHLFHrtgjV+yRK/bIFXvkij1yxR65Yo9csUeu2CP33zy6mEc1zyN1VFdGU8qooYyayqiljNrKqKOMuopoOq6KqnLTlLlpytw0ZW6aMjdNmZumzE1T5qYpc9OVuenK3HRlbroyN12Zm67MTVfmpitzS+8Rs4ko5umA+9TkTJrzM+lLNTRMYK7jr4daT5VQZBQ0s/WQPmcMh/D3QbRIEsXRL8AsmB8AB/0CcK640C9m6+HZjw5PEL0ERUbBshDzA2D4+8XJqamGkA8JhEiur1+gHuY2/nrwelYTFCUFS3FGPYC5TDnqATCWYn4AjMz5AUSLYOeVQtRDxEk0B6l81ANgLEE9AMaVqAfAqMjYX6xthKKjoOuhDPezAMN/P6u3YM9KKDoKuh7yMD8AxuXoF4CB5+UAZ7Hv/JAb6tGAsMHz1YCDegCczPlhYgKKkoKlCPsLwEC/ABz0i6grWBahXwCGv19cBEVKQYP5AXD888OBQ7FmKDoKuh4uxfwAGOgXgIN6ABz//PBe05kGKDoKuh7aMD8ABvoF4KAeAAf1ADj+eoiHejQgbHB+ABzUA+BkPv8Q7PsGoP9SsLTgeXvAQL8AHNQD4OD/9QCnFfcvAAP9AnBQD4CDegAc1APgYH8BOAnf+6OmIvCOPSi89w2WYr8JGJgfACdzfgj784GgMD8v6TK8fzLiBFt/Bfg8tYgrWC7B+QEwKrG/AAzsLwDHXw94Xm5ug+vVgLPWNz+E/b4kCO+PAtEhs180NUNRUrAs8PWLSihSChp/vwg7fyga9ZDuFzFPT3z49CRmCsDBOSPaChrUQ7QVNOgXgIN6ABzc0wAczA/RVtBkXrM8cT00d4V7noBTcuEa9j93rOpn</CustomData>
+					<CustomData name="VSTChunk">eJztnW9MVXUYx58LDUmQDIQQKG5eNAoUzrnnrwRB5iyQErBaRTaXNp3Inw0jsfIya/ai0tbMXH+0pLbaije9aMsRYmtWWI1VrtL1f9ZcL1q9aL2IznW2np37Wz1vOudsfD/se4Fnvxfn2fe73+93zrn33A9pHt1MRKvGttZ0DRAZ+UcbOn/budA8rWc/l1jZfce2ivgHLSeavv/1jYLR79q3zL9vYOcr+XTXij9ebM2ZrCurf359SWWip2v/8YLekcmsvAOH1163Z21N3+vWWKKgdNz6ppXo2O455UWJ/V2Pn7xq67ftG4YOvvnumv6s6RKnkOh6+4w+eqTy9sUNRF96/+car9V2jJxKLPt4y43PjDTc07R9x61H6vcsy3ZWDXz6yUfDEzl1dVcX0znGS4mm277uWNTRMPBWC5Ez9kjxnb1ES3KJehqJarOJCn9ODG17KdZwNkbUuZno3twvlh77ffqKwY7Oika7pmBc+zE+dNNT1S+v6+6m+JxNPy0hOnX4nQVnRh/duO7kD2ZzG1FZWUV/Yu/Z+qNzl29IVceuKdxlDH9WS/TCLa9m3W8tzdr9INHo3tuyH/p8aqX9cPmOr355dri5uPWBlHeMM3/OzL2BemkzDXpaTz3e6zBtRB31/6teVE0rqI/6aTvFSSeLrvR+r/HGDNLdtMn7O/2jKUba4pGOeKQrHJmkevFITTxSF49Mikca4pGmeKTUo6TYo6TYo6TYI0PskSH2yBB7ZIg9MsQeGWKPDLFHhtgjQ+yRIfbIFHtkij0yxR6ZYo9MsUem2CNT7JEp9sgUe2SKPbLEHllijyyxR5bYI0vskSX2yBJ7ZIk9ssQeWWKPbLFHttgjW+yRLfbIFntkiz2yxR7ZYo9ssUe22CNH7JEj9sgRe+SIPXLEHjlijxyxR47YI0fskSP2yBV75Io9csUeuWKPXLFHrtgjV+yRK/bIFXvk/ptHF/Kq5nmkrurKalJZNZRVU1m1lFVbWXWUVVdRTddVVVVvmrI3TdmbpuxNU/amKXvTlL1pyt40ZW+6sjdd2Zuu7E1X9qYre9OVvenK3nRlb+lzxBwiShGY7VxGlOUl5FweYp72uU9MzqTxamlSYR4ciAT+PNR5qoIio6D5Ow9YQ0CaxPk1JE0q3EMBEQD7B8DxrxdPv39wgugQFBkFy3ysF4CB/STgLGbXJFKeTkxNNYZ8SCBE8pAHwEAeAMefBzC7qcjIw6FmKEoKlhLMDxEn2PwVIQ8RJ94SpAqQB8BYhDwAxuXIA2BUZlx/WN0ERUdB56Ec97MAw38/q69w13IoOgo6D/nYPwDGpVgvAAPvfwCchZgfAAPvpwUc/3qx70CsBYqOgs7DxVgvAMO/XuSFejQgbPx5uACKlIIG+0nA8e8n324+3QhFR0HnoR37ScDAegE4yAPgIA+AgzwADvIAOJn3uycmoCgpWBbgfBMwMD9EXcFSjPkBMLCfBBzc7wYczA+AgzwADt5vDzhtOL8ADKwXgIM8AE7m/iHY5xVB/6VgacX+ATCwXgAO8gA4yAPg+POQFerRgLDB9UnAifueHzUVgWfsQeE9b7AM55uAgf0k4GTuH8L+vgcozO+/uATPn4w4weavEN+PE3EFy0WYHwCjCnkAjNW+880qKFIKGv/5Ztj9Q8gDFL08/LN/aG6BoqRgmcf2kzFPj7335CQ+swU4uIYNOMgD4OAZxtFW0GB+ABycg0ZbQYM8RFtBg/UCcHD9AXAwPwAO8gA4mfc0jl8LzV7hMzqAU3r+HtdfqnnqZw==</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">48564</CustomData>
-					<CustomData name="VSTChunkSum">-2654</CustomData>
+					<CustomData name="VSTChunkSum">1182</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
 				<Link producerId="UID_1501541577" producerChannel="0" listenerId="UID_1501541583" listenerChannel="0"/>
@@ -7477,7 +7474,7 @@
 			<VirtualParameter id="55" source="UID_1502376267" param="-8" displayName="."/>
 			<VirtualParameter id="56" source="UID_1502376267" param="-5" displayName="."/>
 		</BiduleGroup>
-		<BiduleGroup id="UID_1279753426" displayName="Tones" zoom="1" processingMode="process" author="music" version="1.0">
+		<BiduleGroup id="UID_1279753426" displayName="Tones" zoom="1.1" type="com.plogue.groups.Mobile6.Tones" processingMode="process" author="music" version="1.0">
 			<Geometry x="-110.962" y="51.5043" w="0" h="0"/>
 			<Channel index="0" name="1L" direction="input" type="samples"/>
 			<Channel index="1" name="1R" direction="input" type="samples"/>
@@ -7550,7 +7547,7 @@
 			<Channel index="33" name="MIDI Output Port 2" direction="output" type="midi"/>
 			<Channel index="34" name="MIDI Output Port 3" direction="output" type="midi"/>
 			<Gui state="normal" hidden="false" generic="true">
-				<Geometry x="-11" y="90" w="462" h="501"/>
+				<Geometry x="-11" y="90" w="473" h="542"/>
 			</Gui>
 			<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
@@ -8171,27 +8168,6 @@
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="3.16228" lockedForRandom="false" mutationFactor="0.1">3.162278</Parameter>
 			</Bidule>
-			<Bidule id="UID_1251395627" type="1701982512" displayName="+decimate 10" processingMode="process">
-				<Geometry x="696.298" y="269.964" w="0" h="0"/>
-				<ChannelConfig numSampleIn="2" numSampleOut="3" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-				<Gui state="normal" hidden="false" generic="false">
-					<Geometry x="823" y="486" w="474" h="218"/>
-				</Gui>
-				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				<Parameter id="-5" userMin="0" userMax="9" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.196850</Parameter>
-				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.157480</Parameter>
-				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJxzTs7zZmBgTnGrcMpmYGBgTC0yNADRQMzFMMDAGew2Bge3Cmd0t7Gk5haUVOLQZ+c5Wd1O0amVYnMKv9RSwz02B7uXUsmcmdQwx04zdDqV3NNLJXMaqeKvwi/+VHJPKZXMyUTmAwCIuVlM</CustomData>
-				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">876</CustomData>
-				<CustomData name="VSTChunkSum">1081</CustomData>
-				<CustomData name="curProg">0</CustomData>
-			</Bidule>
 			<Bidule id="UID_1251409744" type="728985720" displayName="+Comp 16" processingMode="passthrough">
 				<Geometry x="387.733" y="32.626" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="3" numMidiIn="1" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
@@ -8256,7 +8232,7 @@
 			<Bidule id="UID_1254011200" type="728985703" displayName="+Gate 16" processingMode="passthrough">
 				<Geometry x="401.733" y="79.154" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="3" numMidiIn="1" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-				<Gui state="normal" hidden="false" generic="false">
+				<Gui state="normal" hidden="true" generic="false">
 					<Geometry x="1936" y="311" w="538" h="529"/>
 				</Gui>
 				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -8280,10 +8256,10 @@
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="15" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">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</CustomData>
+				<CustomData name="VSTChunk">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</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">67072</CustomData>
-				<CustomData name="VSTChunkSum">-97</CustomData>
+				<CustomData name="VSTChunkSum">-2216</CustomData>
 				<CustomData name="curProg">3</CustomData>
 			</Bidule>
 			<Bidule id="UID_1256389626" type="1919380594" displayName="RadioGloria 15" processingMode="passthrough">
@@ -8465,7 +8441,7 @@
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
+				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
@@ -9119,10 +9095,10 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="0" userMin="0" userMax="3.16228" lockedForRandom="false" mutationFactor="0.1">0.190713</Parameter>
+				<Parameter id="0" userMin="0" userMax="3.16228" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1290016918" type="1146504771" displayName="+decCompress" processingMode="process">
-				<Geometry x="375" y="185.5" w="0" h="0"/>
+				<Geometry x="370.455" y="202.773" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Gui state="normal" hidden="true" generic="false">
 					<Geometry x="767" y="216" w="339" h="278"/>
@@ -9149,7 +9125,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1317408592" type="com.plogue.Dummy" displayName="Audio Dummy 16" processingMode="mute">
-				<Geometry x="248" y="-226" w="0" h="0"/>
+				<Geometry x="294.364" y="-221.455" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -9353,7 +9329,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<Bidule id="UID_1581813632" type="724709680_2_2" displayName="++decimate 10" processingMode="process">
 				<Geometry x="351" y="297.5" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-				<Gui state="normal" hidden="false" generic="false">
+				<Gui state="normal" hidden="true" generic="false">
 					<Geometry x="230" y="667" w="490" h="233"/>
 				</Gui>
 				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -9364,14 +9340,13 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="2" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
+				<Parameter id="3" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.525490</Parameter>
 				<Parameter id="4" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.464000</Parameter>
-				<CustomData name="VSTChunk">eJwLczZSPMLAwGCTkpqcmZtYkhoWYmcT4Bjk6KuQmWKrlJJaUJKhpFCWmFOaaqtkqKSPLJmWn5OSmZeOSzo5Pye/CC5pgCoJ1JeYmYdLNr+0BEVa11DPxMQACEyNTQxMzc0MzQ0tzE1BevSR3M0AAIbAO6M=</CustomData>
+				<CustomData name="VSTChunk">eJwLczZSvMbAwGCTkpqcmZtYkhoWYmcT4Bjk6KuQmWKrlJJaUJKhpFCWmFOaaqtkqKSPLJmWn5OSmZeOSzo5Pye/CC5pgCoJ1JeYmYfQqmdgaGlqaWlpaGJqamBuYWhkiqo+v7QERYOuoZ6JiQEQmBqbGJiamxmaG1qYg/XoI/mEAQCX1z9k</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">205</CustomData>
-				<CustomData name="VSTChunkSum">-2261</CustomData>
-				<CustomData name="curProg">1936028240</CustomData>
-				<CustomData name="uniqueID">724709680</CustomData>
+				<CustomData name="VSTChunkSize">223</CustomData>
+				<CustomData name="VSTChunkSum">-2218</CustomData>
+				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1581813633" type="724725875_2_2" displayName="++pitch 15" processingMode="process">
 				<Geometry x="523" y="154.5" w="0" h="0"/>
@@ -9401,7 +9376,6 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="VSTChunkSize">411</CustomData>
 				<CustomData name="VSTChunkSum">-1041</CustomData>
 				<CustomData name="curProg">0</CustomData>
-				<CustomData name="uniqueID">724725875</CustomData>
 			</Bidule>
 			<Bidule id="UID_1581813634" type="724726643_2_2" displayName="++spiral 15" processingMode="process">
 				<Geometry x="511" y="112.5" w="0" h="0"/>
@@ -9435,7 +9409,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<Bidule id="UID_1581813635" type="724726631_2_2" displayName="++gate 16" processingMode="process">
 				<Geometry x="501" y="66.5" w="0" h="0"/>
 				<ChannelConfig numSampleIn="2" numSampleOut="3" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-				<Gui state="normal" hidden="false" generic="false">
+				<Gui state="normal" hidden="true" generic="false">
 					<Geometry x="2466" y="317" w="490" h="449"/>
 				</Gui>
 				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -9463,7 +9437,6 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="VSTChunkSize">20245</CustomData>
 				<CustomData name="VSTChunkSum">-4173</CustomData>
 				<CustomData name="curProg">0</CustomData>
-				<CustomData name="uniqueID">724726631</CustomData>
 			</Bidule>
 			<Bidule id="UID_1581813636" type="724726627_2_2" displayName="++comp 16" processingMode="process">
 				<Geometry x="511" y="36.5" w="0" h="0"/>
@@ -9474,7 +9447,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">876110691.0</Parameter>
+				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1061730693.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.488359</Parameter>
@@ -9490,12 +9463,11 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJyV2tFOG1cUhWEehVq9bXPWmjkzc6QQKep1paqqcj+FKVi4NjKTPG6fpbRUlPmXiJRIXMC2CfoDeH/a+fSTv/vr+4uL948Py/V6ng/Xpz8f5uPNp98u//3IYfljLVc77Z7fPe9v716//89YGGs7NsbejjuMu+24x7jfjivGdTseMB624xHjcTueMJ6244ZxQxZmE7tFOJQT0wntxHhCPTGf0E8MKBQUEwoNxYhCRTGj0FEMKZQ0SxolzZLm92B8E6KkWdIoaZY0SpoljZJmSaOkWdIoaZY0SpoljZIdS3Yo2bFkh5IdS3b8eY4faJTsWLJDyY4lO5TsWLJDyY4lO5TsWLJDyY4lO5TsWbJHyZ4le5TsWbJHyZ4le/5ujF+OKNmzZI+SPUv2KNmzZI+SPUv2KNmzZI+SlSUrSlaWrChZWbKiZGXJipKVJStfZ+KFBiUrS1aUrCxZUbKyZEXJypIVJQeWHFByYMkBJQeWHFByYMkBJQeWHFByYMmBr9nxoo2SA0sOKDmw5ICSA0sOKDmy5IiSI0uOKDmy5IiSI0uOKDmy5IiSI0uOKDmy5Mj9JxYglBxZckTJkSVHlJxYckLJiSUnlJxYckLJiSUnlJxYckLJiSUnlJxYckLJiSUn7pKxTKLkxJITSjaWbCjZWLKhZGPJhpKNJRtKNpZsKNlYsqFkY8mGko0lG0o2lmzcy2Mxj808V3Pu5iWW88LtvMR6Xrifl1jQCzf0Eit64Y5eYkkv3NJLrOmFe3qJRb1wUy+xqhfu6iWW9cK6CZ+UT9KHdRM/oZ/kT/gnARQCSgKFgRJBoaBkUDgoIRQSSgrRQgoMiRpScEj0kAJEoogUJBJNpECRqCIFi0QXKWAkykhBI9FGChyJOlLwSPSRAkiikBREEo2kQJKoJAWTRCcpoCRKSUEl0UoKLIlaUnBJ9JICTKKYFGQSzaRAk6gmBZtENyngJMpJQSfRTgo8iXpS8En0kwJQoqAUhBINpUCUqCgFo0RHKSAlSkpBKdFSCkyJmlJwSvSUAlSiqBSkEk2lQJWoKgWrRFcpYCXKSkEr0VYKXIm6UvBK9JUCWKKwFMQSjaVAlqgsBbNEZymgJUpLQS3RWgpsidpScEv0lgJcorgU5BLNpUCXqC4Fu0R3KeAlyktBL9FeCnyJ+lLwS/SXAmCiwBQEEw2mQJioMAXDRIcpICZKTEEx0WIKjIkaU3BM9JgCZKLIFCQTTaZAmagyBctElylgJspMQTPRZgqciTpT8Ez0mQJootAURBONpkCaqDQF00SnKaAmSk1BNdFqDquZVnNYzbSaw2qm1RxWM63msJppNYfVTKs5rGZazWE102oOq5lWc1jNtJrDaqbVHFYzreawmmk1h9VMqzmsZlrNYTXTag6rmVZzWM20msNqptUcVnPcrfJwFZerPF3l7SqPV6yb56u4X+UBKy5YecKKG1YeseKKlWesuGPlISsuWXnKotUcVjOt5rCaaTWH1UyrOaxmWs1hNdNqDquZVnNYzbSaw2qm1RxWM63msJppNYfVTKs5rGZazWE102oOq5lWc1jNtJrDaqbVHFYzreawmmk1h9VMqzmsZlrNYTXTag6rmVZzWM20msNqptUcVjOt5rCaaTWH1UyrOaxmWs1hNdNqDquZVnNY7b+PfHj/y8dfP/58ub+52q135+Xx7nS42V1+mQ+fl6vdD/20e/f6Ied53Z9extoO53Wdr+9fpuXHUsvzn7GvpU6ltqEZn3A5LPPj8m1PWveH9f9nbGe/z8ebx5fhuB3uj1+W85tPfVjm+6ev5nx86wHz07Pn2+Wrj3mO+PS2rG91elyX83I67I/3b32S/fF23r/5V5w+r18bX58Op/N2+O753/3Vf2X6cPE3EqqKxQ==</CustomData>
+				<CustomData name="VSTChunk">eJyV2tFOG1cUhWEehVq9bXPWmjlnzkghUtTrSlVV5d6FKVi4NjJOXrwvUBqqhPmXiBQkLvD2YPTLMPvT4cMv/uGfHy8u3j4+LNfn03Z/ffz7YXu4+fDH5edH9stf53K10eb5y9Pu9u7l1/+NhbHWY2Ps9XjAeFiPR4zH9bhiXNfjhnFbjyeMp/W4Y9zX4xnjGVmYTewW4VBOTCe0E+MJ9cR8Qj8xoFBQTCg0FCMKFcWMQkcxpFDSLGmUNEua78F4E6KkWdIoaZY0SpoljZJmSaOkWdIoaZY0SpoljZIDSw4oObDkgJIDSw78fY5faJQcWHJAyYElB5QcWHJAyYElB5QcWHJAyYElB5QcWXJEyZElR5QcWXJEyZElR/5tjD+OKDmy5IiSI0uOKDmy5IiSI0uOKDmy5IiSlSUrSlaWrChZWbKiZGXJipKVJSvvM3GjQcnKkhUlK0tWlKwsWVGysmRFycaSDSUbSzaUbCzZULKxZEPJxpINJRtLNt6z46aNko0lG0o2lmwo2ViyoeTEkhNKTiw5oeTEkhNKTiw5oeTEkhNKTiw5oeTEkhP3n1iAUHJiyQklJ5acULKzZEfJzpIdJTtLdpTsLNlRsrNkR8nOkh0lO0t2lOws2blLxjKJkp0lO0rOLDmj5MySM0rOLDmj5MySM0rOLDmj5MySM0rOLDmj5MySM0rOLDlzL4/FPDbzXM25m5dYzgu38xLreeF+XmJBL9zQS6zohTt6iSW9cEsvsaYX7uklFvXCTb3Eql64q5dY1gvrJnxSPkkf1k38hH6SP+GfBFAIKAkUBkoEhYKSQeGghFBIKClECykwJGpIwSHRQwoQiSJSkEg0kQJFoooULBJdpICRKCMFjUQbKXAk6kjBI9FHCiCJQlIQSTSSAkmikhRMEp2kgJIoJQWVRCspsCRqScEl0UsKMIliUpBJNJMCTaKaFGwS3aSAkygnBZ1EOynwJOpJwSfRTwpAiYJSEEo0lAJRoqIUjBIdpYCUKCkFpURLKTAlakrBKdFTClCJolKQSjSVAlWiqhSsEl2lgJUoKwWtRFspcCXqSsEr0VcKYInCUhBLNJYCWaKyFMwSnaWAligtBbVEaymwJWpLwS3RWwpwieJSkEs0lwJdoroU7BLdpYCXKC8FvUR7KfAl6kvBL9FfCoCJAlMQTDSYAmGiwhQMEx2mgJgoMQXFRIspMCZqTMEx0WMKkIkiU5BMNJkCZaLKFCwTXaaAmSgzBc1EmylwJupMwTPRZwqgiUJTEE00mgJpotIUTBOdpoCaKDUF1USrOaxmWs1hNdNqDquZVnNYzbSaw2qm1RxWM63msJppNYfVTKs5rGZazWE102oOq5lWc1jNtJrDaqbVHFYzreawmmk1h9VMqzmsZlrNYTXTag6rmVZzWM1xbpUHV3FylUdXeXaVh1esm8dXcX6VB1hxgpVHWHGGlYdYcYqVx1hxjpUHWXGSlUdZtJrDaqbVHFYzreawmmk1h9VMqzmsZlrNYTXTag6rmVZzWM20msNqptUcVjOt5rCaaTWH1UyrOaxmWs1hNdNqDquZVnNYzbSaw2qm1RxWM63msJppNYfVTKs5rGZazWE102oOq5lWc1jNtJrDaqbVHFYzreawmmk1h9VMqzmsZlrNYTXTag6r/f/Iu7e/vf/9/a+Xu5urzfnutDzeHfc3m8tP2/3H5Wrz09g3b14+5bQ9745fxuXn+fNHf7r/9VZabdPQh/UV2/N5e33/4pJSy/PHNNZSe6lzm41XWfbL9nH5vovOu/356xXr2Z/bw83jl+G0Hu4On5bTq5c+LNv7p5/mdHjtCdunq7e3yzef81z26XP5+jpaP+XxvJyW4353uH/tm+wOt9vdqy9x/Hj+1vj6uD+e1sM3z2+GF//f9O7iX4WLjz0=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">9447</CustomData>
-				<CustomData name="VSTChunkSum">-2300</CustomData>
-				<CustomData name="curProg">876110691</CustomData>
-				<CustomData name="uniqueID">724726627</CustomData>
+				<CustomData name="VSTChunkSize">9468</CustomData>
+				<CustomData name="VSTChunkSum">-2716</CustomData>
+				<CustomData name="curProg">1061730693</CustomData>
 			</Bidule>
 			<Bidule id="UID_1581813637" type="728592998_2_2" displayName="++morph 16" processingMode="process">
 				<Geometry x="512" y="-0.500002" w="0" h="0"/>
@@ -9526,10 +9498,9 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<CustomData name="VSTChunkSize">21411</CustomData>
 				<CustomData name="VSTChunkSum">-6756</CustomData>
 				<CustomData name="curProg">0</CustomData>
-				<CustomData name="uniqueID">728592998</CustomData>
 			</Bidule>
 			<Bidule id="UID_1581813640" type="com.plogue.InputSelectorS_16" displayName="Input Selector_0" processingMode="process">
-				<Geometry x="485" y="-335.5" w="0" h="0"/>
+				<Geometry x="516.818" y="-332.773" w="0" h="0"/>
 				<ChannelConfig numSampleIn="33" numSampleOut="2" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 				<Gui state="normal" hidden="true" generic="true">
 					<Geometry x="-1" y="-1" w="0" h="0"/>
@@ -9541,9 +9512,9 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 			</Bidule>
 			<Bidule id="UID_1581813641" type="com.plogue.VariableInt" displayName="Int Variable_1" processingMode="process">
-				<Geometry x="596" y="214.5" w="0" h="0"/>
+				<Geometry x="747.818" y="81.7727" w="0" h="0"/>
 				<ChannelConfig numSampleIn="0" numSampleOut="1" numMidiIn="0" numMidiOut="0" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
-				<Gui state="normal" hidden="false" generic="true">
+				<Gui state="normal" hidden="true" generic="true">
 					<Geometry x="2406" y="118" w="418" h="184"/>
 				</Gui>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
@@ -9685,6 +9656,8 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<Link producerId="UID_1280703180" producerChannel="0" listenerId="UID_1290016918" listenerChannel="0"/>
 			<Link producerId="UID_1581813632" producerChannel="1" listenerId="UID_1280703180" listenerChannel="1"/>
 			<Link producerId="UID_1280703180" producerChannel="1" listenerId="UID_1290016918" listenerChannel="1"/>
+			<Link producerId="UID_1254011200" producerChannel="0" listenerId="UID_1581813640" listenerChannel="0"/>
+			<Link producerId="UID_1254011200" producerChannel="1" listenerId="UID_1581813640" listenerChannel="1"/>
 			<VirtualParameter id="0" source="UID_1279755164" param="0" displayName="." GUI="label"/>
 			<VirtualParameter id="1" source="UID_1279755165" param="0" displayName="." GUI="label"/>
 			<VirtualParameter id="2" source="UID_1279755167" param="0" displayName="." GUI="label"/>
@@ -9700,42 +9673,42 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<VirtualParameter id="12" source="UID_1238859963" param="-2" displayName="TrA 9" GUI="checkbox"/>
 			<VirtualParameter id="13" source="UID_1238859963" param="-8" displayName="."/>
 			<VirtualParameter id="14" source="UID_1238859963" param="-5" displayName="."/>
-			<VirtualParameter id="15" source="UID_1251395627" param="-2" displayName="+dec 10" GUI="checkbox"/>
-			<VirtualParameter id="16" source="UID_1251395627" param="-8" displayName="."/>
-			<VirtualParameter id="17" source="UID_1280703180" param="0" displayName="." GUI="slidernotext"/>
-			<VirtualParameter id="18" source="UID_1238884702" param="-2" displayName="PWM 11" GUI="checkbox"/>
-			<VirtualParameter id="19" source="UID_1238884702" param="-8" displayName="."/>
-			<VirtualParameter id="20" source="UID_1238884702" param="1" displayName="." GUI="led"/>
-			<VirtualParameter id="21" source="UID_1239056417" param="-2" displayName="FrO 12" GUI="checkbox"/>
-			<VirtualParameter id="22" source="UID_1239056417" param="-8" displayName="."/>
-			<VirtualParameter id="23" source="UID_1239056417" param="-5" displayName="."/>
-			<VirtualParameter id="24" source="UID_1279834776" param="0" displayName="Poly 13"/>
-			<VirtualParameter id="25" source="UID_1241993924" param="-8" displayName="."/>
-			<VirtualParameter id="26" source="UID_1241993924" param="-5" displayName="."/>
-			<VirtualParameter id="27" source="UID_1279834756" param="0" displayName="Atl 14"/>
-			<VirtualParameter id="28" source="UID_1241983328" param="-8" displayName="."/>
-			<VirtualParameter id="29" source="UID_1241983328" param="-5" displayName="."/>
-			<VirtualParameter id="30" source="UID_1318078106" param="0" displayName="RadGlo 15"/>
-			<VirtualParameter id="31" source="UID_1256389626" param="-8" displayName="."/>
-			<VirtualParameter id="32" source="UID_1256389626" param="-5" displayName="."/>
-			<VirtualParameter id="33" source="UID_1318078092" param="0" displayName="+Pitch 15"/>
-			<VirtualParameter id="34" source="UID_1318078098" param="-8" displayName="."/>
-			<VirtualParameter id="35" source="UID_1318078098" param="-5" displayName="."/>
-			<VirtualParameter id="36" source="UID_1318078096" param="0" displayName="+Spiral 15"/>
-			<VirtualParameter id="37" source="UID_1318078099" param="-8" displayName="."/>
-			<VirtualParameter id="38" source="UID_1318078099" param="-5" displayName="."/>
-			<VirtualParameter id="39" source="UID_1279755179" param="0" displayName="Gat 16"/>
-			<VirtualParameter id="40" source="UID_1254011200" param="-8" displayName="."/>
-			<VirtualParameter id="41" source="UID_1254011200" param="-5" displayName="."/>
-			<VirtualParameter id="42" source="UID_1279755180" param="0" displayName="Com 16"/>
-			<VirtualParameter id="43" source="UID_1251409744" param="-8" displayName="."/>
-			<VirtualParameter id="44" source="UID_1251409744" param="-5" displayName="."/>
-			<VirtualParameter id="45" source="UID_1279755181" param="0" displayName="Mor 16"/>
-			<VirtualParameter id="46" source="UID_1251409745" param="-8" displayName="."/>
-			<VirtualParameter id="47" source="UID_1251409745" param="-5" displayName="."/>
+			<VirtualParameter id="15" source="UID_1581813632" param="-2" displayName="++Deci 10" GUI="checkbox"/>
+			<VirtualParameter id="16" source="UID_1581813632" param="-8" displayName="."/>
+			<VirtualParameter id="21" source="UID_1581813632" param="3" displayName="." GUI="slidernotext"/>
+			<VirtualParameter id="22" source="UID_1238884702" param="-2" displayName="PWM 11" GUI="checkbox"/>
+			<VirtualParameter id="23" source="UID_1238884702" param="-8" displayName="."/>
+			<VirtualParameter id="24" source="UID_1238884702" param="1" displayName="." GUI="led"/>
+			<VirtualParameter id="25" source="UID_1239056417" param="-2" displayName="FrO 12" GUI="checkbox"/>
+			<VirtualParameter id="26" source="UID_1239056417" param="-8" displayName="."/>
+			<VirtualParameter id="27" source="UID_1239056417" param="-5" displayName="."/>
+			<VirtualParameter id="28" source="UID_1279834776" param="0" displayName="Poly 13"/>
+			<VirtualParameter id="29" source="UID_1241993924" param="-8" displayName="."/>
+			<VirtualParameter id="30" source="UID_1241993924" param="-5" displayName="."/>
+			<VirtualParameter id="31" source="UID_1279834756" param="0" displayName="Atl 14"/>
+			<VirtualParameter id="32" source="UID_1241983328" param="-8" displayName="."/>
+			<VirtualParameter id="33" source="UID_1241983328" param="-5" displayName="."/>
+			<VirtualParameter id="34" source="UID_1318078106" param="0" displayName="RadGlo 15"/>
+			<VirtualParameter id="35" source="UID_1256389626" param="-8" displayName="."/>
+			<VirtualParameter id="36" source="UID_1256389626" param="-5" displayName="."/>
+			<VirtualParameter id="37" source="UID_1318078092" param="0" displayName="+Pitch 15"/>
+			<VirtualParameter id="38" source="UID_1318078098" param="-8" displayName="."/>
+			<VirtualParameter id="39" source="UID_1318078098" param="-5" displayName="."/>
+			<VirtualParameter id="40" source="UID_1318078096" param="0" displayName="+Spiral 15"/>
+			<VirtualParameter id="41" source="UID_1318078099" param="-8" displayName="."/>
+			<VirtualParameter id="42" source="UID_1318078099" param="-5" displayName="."/>
+			<VirtualParameter id="43" source="UID_1279755179" param="0" displayName="Gat 16"/>
+			<VirtualParameter id="44" source="UID_1254011200" param="-8" displayName="."/>
+			<VirtualParameter id="45" source="UID_1254011200" param="-5" displayName="."/>
+			<VirtualParameter id="46" source="UID_1279755180" param="0" displayName="Com 16"/>
+			<VirtualParameter id="47" source="UID_1251409744" param="-8" displayName="."/>
+			<VirtualParameter id="48" source="UID_1251409744" param="-5" displayName="."/>
+			<VirtualParameter id="49" source="UID_1279755181" param="0" displayName="Mor 16"/>
+			<VirtualParameter id="50" source="UID_1251409745" param="-8" displayName="."/>
+			<VirtualParameter id="51" source="UID_1251409745" param="-5" displayName="."/>
 		</BiduleGroup>
 		<BiduleGroup id="UID_1279753451" displayName="Amps+Drums" zoom="1.1" processingMode="process" author="music" version="1.0">
-			<Geometry x="-105.291" y="-6.60452" w="0" h="0"/>
+			<Geometry x="-107.9" y="-16.1697" w="0" h="0"/>
 			<Channel index="0" name="1L" direction="input" type="samples"/>
 			<Channel index="1" name="1R" direction="input" type="samples"/>
 			<Channel index="2" name="2L" direction="input" type="samples"/>
@@ -10336,10 +10309,10 @@ Works only in 0.5001 or higher
 					<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 					<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.605897</Parameter>
 					<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.013043</Parameter>
-					<CustomData name="VSTChunk">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</CustomData>
+					<CustomData name="VSTChunk">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</CustomData>
 					<CustomData name="VSTChunkCompressed">yes</CustomData>
 					<CustomData name="VSTChunkSize">14016</CustomData>
-					<CustomData name="VSTChunkSum">-1283</CustomData>
+					<CustomData name="VSTChunkSum">573</CustomData>
 					<CustomData name="curProg">0</CustomData>
 				</Bidule>
 				<Link producerId="UID_1192654498" producerChannel="0" listenerId="UID_1192654436" listenerChannel="0"/>
@@ -14297,9 +14270,6 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 			<Channel index="29" name="15R" direction="output" type="samples"/>
 			<Channel index="30" name="16L" direction="output" type="samples"/>
 			<Channel index="31" name="16R" direction="output" type="samples"/>
-			<Gui state="normal" hidden="true" generic="true">
-				<Geometry x="28" y="273" w="524" h="501"/>
-			</Gui>
 			<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 			<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
 			<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -20867,10 +20837,10 @@ the function implemented is: 0.5*x*(3 - x^2)
 				<Parameter id="11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500100</Parameter>
-				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgtWXP8+y+372g638QQd7v/Vz7TMXXra3ka2wqzP8Y7vjJaR8KFFmssdtxCgYQQAAOAENcw==</CustomData>
+				<CustomData name="VSTChunk">eJxzcSspY2BgrWCAAAUg5gNiASBWYUAARiBmAmJmIGYBYlYgZgNidiDmAGJOIOYCYm4g5gFiXhe3CIWQosS84rLUoiQGTGCflmJul9xnaS+lymX3sL7U7jGQbb/Lw/bMmbP2DUB5ENb9dB9Eg9U3MLuD6IKMxOLUIoXSAixmgoBNk9MZu1VPs+y1W+Xt09LSkOXsnqWl2cPsb0DVBzU3Jb88D7u5fFwH7VblH7R36o9Bl8NnbmJhaWZeYjEO1wLVx3ml77NtfmjPZVtoX2dqby9194nd61Z5u0cXntp7nVMEh0Pcgavo5qbnlBYopBSV5uIw2rYqQNauZd8n+8rbyrYHO83tHgWsBbvVc1ec3al7XxDhiqqvuCAxOVUhM68sMSW1CIvZ1msW7bZbObnD3uqhh52dhordfl43u4uvW+0li9xtjsxeBjLPbrOxMbq5hkYGSQW5CulF+fllqdjCAeRP+ek59q46q+yV7vDa1eyOt6t7qWCnnF4Llq/ZfhqshoGtD64HyE5JTUsszSlRsMAeDJB0tmrVagg7xweUzsDhg5TOsIUDzFxLGplraEAjcw1pZK4Rjcw1ppG5JjQy15S65gKLyJT8XOxmgtX7286yZ3JktVtu6mcvXWpu7z6533bCREV7i8xCsLlB9u32DDYByHaMgpELALIpCYs=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">2000</CustomData>
-				<CustomData name="VSTChunkSum">-1181</CustomData>
+				<CustomData name="VSTChunkSum">-975</CustomData>
 				<CustomData name="curProg">6</CustomData>
 			</Bidule>
 			<Bidule id="UID_1239056175" type="1263814514" displayName="KTGran 12" processingMode="mute">
@@ -23388,7 +23358,7 @@ Link the Switcher's &quot;output processing mode&quot; to the group's &quot;Targ
 				<Channel index="2" name="Audio R" direction="input" type="samples"/>
 				<Channel index="0" name="Audio L" direction="output" type="samples"/>
 				<Channel index="1" name="Audio R" direction="output" type="samples"/>
-				<Presets uSize="65843" checkSum="-2526">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</Presets>
+				<Presets uSize="65843" checkSum="-5218">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</Presets>
 				<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -25859,7 +25829,7 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 				<Parameter id="-10000" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">539766840.0</Parameter>
+				<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">-2102168044.0</Parameter>
 				<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
 				<Parameter id="0" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.305882</Parameter>
 				<Parameter id="1" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.500000</Parameter>
@@ -25895,7 +25865,6 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">589</CustomData>
 				<CustomData name="VSTChunkSum">34</CustomData>
-				<CustomData name="curProg">539766840</CustomData>
 			</Bidule>
 			<Bidule id="UID_1547478169" type="724725860_2_2" displayName="++PitDel15" processingMode="passthrough">
 				<Geometry x="214.393" y="85.1345" w="0" h="0"/>
@@ -26246,10 +26215,7 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 				<Channel index="2" name="Audio R" direction="input" type="samples"/>
 				<Channel index="0" name="Audio L" direction="output" type="samples"/>
 				<Channel index="1" name="Audio R" direction="output" type="samples"/>
-				<Gui state="normal" hidden="true" generic="true">
-					<Geometry x="1401" y="32" w="466" h="882"/>
-				</Gui>
-				<Presets uSize="68825" checkSum="-840">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</Presets>
+				<Presets uSize="68825" checkSum="3718">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</Presets>
 				<Parameter id="-11" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0</Parameter>
 				<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
@@ -26671,7 +26637,7 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 						<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 						<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 						<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-						<Parameter id="0" userMin="0" userMax="1500" lockedForRandom="false" mutationFactor="0.1">672.456604</Parameter>
+						<Parameter id="0" userMin="0" userMax="1500" lockedForRandom="false" mutationFactor="0.1">466.717712</Parameter>
 					</Bidule>
 					<Bidule id="UID_1581721512" type="com.plogue.BinaryLogicOperator" displayName="==" processingMode="process">
 						<Geometry x="442" y="-335.5" w="0" h="0"/>
@@ -27157,9 +27123,9 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 						<Presets uSize="5073" checkSum="-1040">eJzt2E1PgzAYB3Cv7lOQXnYabx0vW2AmHpaYbGo0MV4rPE4itEvbue3bWzEQZtSU4M1ygvCUf/u7tA/JxaEqrTfgomA0RZ7tIgtoxvKCblJ0dX8zieNgNvHQxWKUXBb5roRbDgKksNRAKuYHUaToRcrt3HH2+729xzbjG8d3Xc95XK/usxeoyKSgQhKaAbJU/Zyya1KB2JIMPt+vWEbkxwTGJxH2QeRjSx63kKKMVfa2ZJsd2A+EF+SpBLQYnSefpVaRp0hNnarvqlUgiwPJGS2PKTqC+ChUlYSrtxJ4XTyJkLUTwNcFrUfW9+RQDy5Z9gr5kvE7QnNWpeiZlELNvdrJeppLkknG1TDbQwsvcdovf5fj/5Dj98xxbff3JLcT5HUXFPVd0dck9VQrf/H2Gm/feA/x9jW9/cYbG+8h3ljTGzfeU+M9xHuq6T1tvGPjPcQ71vQOGu+Z8R7iPdP0Dtvzidkwhx1QdHfMqBUPjPgg8UBTPG7FIyM+SDzSFJ+1p8KTtoey/wfeDcJ9V4S12562z8TYiHfEcV9x3YO413aaoRHvBIV9xUNt8bbXDAMj3hEP+or/snEmzsnfrsXo7A+udzZFOzw=</Presets>
 						<Parameter id="-9" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 						<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
-						<Parameter id="-5" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">3.0</Parameter>
+						<Parameter id="-5" userMin="0" userMax="12" lockedForRandom="false" mutationFactor="0.1">0.658824</Parameter>
 						<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-						<Parameter id="0" userMin="1" userMax="17" lockedForRandom="false" mutationFactor="0.1">4.0</Parameter>
+						<Parameter id="0" userMin="1" userMax="17" lockedForRandom="false" mutationFactor="0.1">2.0</Parameter>
 					</Bidule>
 					<Bidule id="UID_1581721573" type="com.plogue.Variable" displayName="Ldenominator" processingMode="process">
 						<Geometry x="-23" y="-58" w="0" h="0"/>
@@ -28125,7 +28091,7 @@ actually there's another more elegant solution : use a MIDI CC To Params inside 
 						<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 						<Parameter id="-5" userMin="0" userMax="0" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 						<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-						<Parameter id="0" userMin="0" userMax="1500" lockedForRandom="false" mutationFactor="0.1">756.513611</Parameter>
+						<Parameter id="0" userMin="0" userMax="1500" lockedForRandom="false" mutationFactor="0.1">207.430099</Parameter>
 					</Bidule>
 					<Bidule id="UID_1581721728" type="com.plogue.BinaryLogicOperator" displayName="==" processingMode="process">
 						<Geometry x="442" y="-335.5" w="0" h="0"/>
@@ -29155,7 +29121,7 @@ turn of player
 			<CustomData name="DeviceName">nanoKONTROL2 1 SLIDER/KNOB</CustomData>
 			<CustomData name="displayName">nanoKONTROL2 1 SLIDER/KNOB</CustomData>
 		</Bidule>
-		<Bidule id="UID_1361031211" type="MidiInput_5" displayName="SoftStepLoopback" processingMode="process">
+		<Bidule id="UID_1361031211" type="MidiInput_3" displayName="SoftStepLoopback" processingMode="process">
 			<Geometry x="188.055" y="243.569" w="0" h="0"/>
 			<ChannelConfig numSampleIn="0" numSampleOut="0" numMidiIn="0" numMidiOut="1" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 			<Gui state="normal" hidden="true" generic="true">
@@ -29527,10 +29493,10 @@ turn of player
 				<Parameter id="18" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="19" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
 				<Parameter id="20" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
-				<CustomData name="VSTChunk">eJztWEtu2zAQzSF6AFX7ysM/CbgG4qbppk3ausjWUGMlFipbji2nyPV6so5+tiyRTpxNUUBcBMGbN8Mh53FM6uYDffvnzdnZ8MfF95vrySSJb399/OYl6e9xuJx9CuPl13AdLt7772gAfo1frqOHCpd8h07m4Sqq4Mk8Su58bxHPWnFIoHdwI4wQwvfm8f28Pa0IyN7QcOACYG+wTB09fElnUVKD6WMcZTk6CbMKu75D2nzVCFog6TZDTtP5c7yMwnVtuVjHj/VcMt8UhBsZQw79fFqFm00z6gLj1blk0TpKd9s27nLL7eka6uV2LeE2SxtJXC9972EbJnH2VCGX2yTxR8MkvY9vw8RWYBKYYmgNyoAiwO31DiAfRBglNTdCWesPjtoXvpwaIhjnlNulwIMyD4NFxmmYUxlFNBSCxISJdAslT5kJwagmQKldNtCWDDtUC7S0QsAmFXCopNwzpTVhhnHWEU1LMnAgGFL5A+G4TlwotYsH7NIBh3CgIxvSVg34g9FwtY42UbbxwtsM15SzasybXqXTwm16FS4i/Pciugu3SZa7DSq/0fDcm54XvgUXTeMGsO8q7UPUFZ+G05pNEaarMHrQO9p8i4YIhZO6zfkiWuMxW/b9xt1vrAVWpmxCimpKqeRav7y7OEsdlEePMsG5MvbCu8uee3OjjeBUmxe2DuhbR9k6BuPRcLucpfg39tIV1sP3VnFl7KEe6qEe6qEe+m8gUkJ4E1g+Wi28sgQSLw0Kf3iNJooJSk2Xy2qu6NrgiI3UNqqMInhXkkCYkALksXwEGIovNsUI54IRdoQrNN6/GCXa4MWDS6mP5M4lcgg1DN90SmIyXa6suYoKypUAjC2NFMySw44rpNaaMWE4w7sgcMvaCHeWoTaRf+u1Xw3Dt7JRhoEBTYFZuNo5QW0JWDlwR6TiHCxl2VFlOTTuMl6j8bl+TH7IURKMIMYIlMgxGXEwkoHiQnLDmFKqyxVHpHuKFHZxuDZcasCNU0bn3w8sNTDuyrkPK1HPmmwBX+XlTtCd314+kEtHEEWMlEJQy66/Jr7bRz9nccv0JJ8XHavGpwdkDcoXxeDgk+Xo7C/5QNO4</CustomData>
+				<CustomData name="VSTChunk">eJztWE1z2jAQzZ/o3fG9ZiWtvmYoM6FpemmbtnRyZdzgBE8NJsSkk3/ftY3B2DIJufRiHTKZt29XK+3TIvnmIz8/f3d2Nvx1+fPmejJJ4ts/n354Sfp3HC5nn8N4+T1ch4sP/nsegF/hV+voYYsr3KGTebiKtvBkHiV3vreIZ404LDA7uBZGSul78/h+3pxWBmxvqDmgBNgbHFNHD1/TWZRUYPoUR1mOTsJsi13fEW2+qgUtkHSTEafu/CVeRuG6slyu46dqLpVvCsG1jCGHfj+vwsfHetQFxatyyaJ1lO62bdzmltvTNlTLbVvCTZbWkrhe+t7DJkzi7HmLXG2SxB8Nk/Q+vg0TV4FZYIthDGgLmgG66x1APpi0Whm0UjvrDx21L3yRWyYFIke3FDAo87BUZJpGdCqjiEZCUJQwU91CyVMWUgpuGHDulg00JSMO1QINrTBwSQU6VFLumTaGCStQtETTkAwcCIZt/YEhrZMWyt3iAbd0oEM40JINa6oG/MFouFpHj1H26IW3Ga0pZ1WYN/2WTgu36bdwEdG/l9FduEmy3G2w9RsNL7zpReFbcMk0rgH7rtI8RG3xGTit2RRh2grjB72jyXdoiHE4qdtcLKI1HbNl32+6+42zwNqWTUhzwzlXaMzru0tnqYPy6HEhEbV1F7677Lk3WmMlcmNf2Tqgbx1l6xiMR8PNcpbS39hLV1QP31vFW2MP9VAP9VAP9VAPlRArIbpoLJ+cFtxaAkV3Ek2/69YwLSTnts0VFVe2bXDExiob11YzuoopYEIqCepYPhIspwehFgxRCiaOcKWh653gzFi616BS5kjuqIjDuBX0ZNSKkmlzVcXVXHLUEii2skoKRw47rlTGGCGkRUFXTUDH2hh2lqEysf/rtV+NoKe41VaABcNBOLimc4LKEohy0I4ojQiOsuyoqhyGdplu6UwelR9xtAIrmbWSJHJMRghWCdAoFVohtNZtrjwi3VOksIuDxqIyQBunrck/TzhqYLsr131YmX7R5Ar4Jq/uBLvz28sHculIpplVSkru2PW3xO/2MS9ZumV6ks+rjlXtywaxBuWDZXDwRXR09g9McuuH</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
-				<CustomData name="VSTChunkSize">5323</CustomData>
-				<CustomData name="VSTChunkSum">411</CustomData>
+				<CustomData name="VSTChunkSize">5418</CustomData>
+				<CustomData name="VSTChunkSum">3090</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1419701450" type="908406121" displayName="ThrillseekerLA.64_0" processingMode="process">
@@ -29559,10 +29525,10 @@ turn of player
 				<Parameter id="12" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 				<Parameter id="13" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">0.580656</Parameter>
 				<Parameter id="14" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1.0</Parameter>
-				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxM+6Ad9+xg8jeWitiD1KekpiWW5pQwGBozsAssU2bnWK7MfgBIB0zxEggGYgYUs+Hm2xfaKtnf92e0nzXT0w4qDsZnz5yxg7Ab7Msy80oS01MV8gtK8hmQzK5YqswuAGQzYHE3SK9Twl27tDQ7oB2vUMwGSV4StIWYnViUmZiUk6rgnsvAsESZPUFAVUCHg4FBAmh2Ap+qAC6zlxTE2u2QO2r3sErEFmb22TM+YAxTX1yempJZnKGQnJOamKeQn5fKADSbnbDZ8q3ddm8CJewKbVdhuDvNvAssllJUmquQWFycmgt0fBEDxOxOIQHsZiPC27yTEezuI181wO5eUsAKD++M8gVgs9MSM4sqFUwZDE0YoO5WZv9wARjeWirsDYYq7LjMjulXsmt9LWlfI6Jnix6XHC4ZSGabkWi2hP3z35wwcbDZ/Yeu2sHM3sguBTW7uASSSIgJb4S7YQF/+OsKuLtnzZQEY5gc2OzEYoVEBTfXEAZs6QQrsEflwsMEBQQU5acXJeYqGBowAM1mZdewY2VP0GRlf6HFym6hyspOFbMNGfLh6Zubyu42wpXnqWC2MQ3DxISBgWbuNmVg+AELbwYqh7cZA9ZyEAA3cPX2</CustomData>
+				<CustomData name="VSTChunk">eJxjYGiwZwADGM3AELRDzl4zRt+O6/pmOxB/1sxM+6Ad9+xg8jeWitiD1KekpiWW5pQwLBDO49gglMexAkgnALEEkL0BSDOgmA03377QVsn+vj+j/ayZnnZQcTA+e+aMHYTdYF+WmVeSmJ6qkF9Qks8gCDRXQFVA5w0/4w4Qm09VgAGLu0F6nRLu2qWl2QHteIViNkjykqAtxOzEoszEpJxUBfdcBmR3B0zxEggGYlxmLymItdshd9TuYZWILczss2d8wBimvrg8NSWzOEMhOSc1MU8hPy+VgTiz5Vu77d4EStgV2q7CcHeaeRdYLKWoNFchsbg4NRfo+CIGSJgAQxl7mCDC27yTEezuI181wO5eUsAKD++M8gVgs9MSM4sqFUwZiAtvhNkx/Up2ra8l7WtE9GzR45LDJQPJbDMG4sIbxpawf/6bEyYONrv/0FU7mNkb2aWgZheXQBIJahrEbzYDPOwPf10Bd/esmZJgDJMDm51YrJCo4OYawoAtfWMF9qhceJiggICi/PSixFwFQwMGHGFCBbMNaWi2EQOOPE8Fs41paLYJDc02ZcCRL6lgthkD+wJtLfYAIK4A4geNWuwbOrXYAVhHAaI=</CustomData>
 				<CustomData name="VSTChunkCompressed">yes</CustomData>
 				<CustomData name="VSTChunkSize">1472</CustomData>
-				<CustomData name="VSTChunkSum">-2445</CustomData>
+				<CustomData name="VSTChunkSum">-1212</CustomData>
 				<CustomData name="curProg">0</CustomData>
 			</Bidule>
 			<Bidule id="UID_1421947310" type="1146504771" displayName="LightweightCompressor_3" processingMode="process">
@@ -29607,7 +29573,7 @@ turn of player
 			<VirtualParameter id="3" source="UID_1419701450" param="-8" displayName="Thrillseeker"/>
 			<VirtualParameter id="4" source="UID_1418748911" param="-8" displayName="SlickEq"/>
 		</BiduleGroup>
-		<Bidule id="UID_1430997895" type="MidiInput_8" displayName="MIDISPORT 2x2 In B" processingMode="process">
+		<Bidule id="UID_1430997895" type="MidiInput_6" displayName="MIDISPORT 2x2 In B" processingMode="process">
 			<Geometry x="-82.4691" y="296.82" w="0" h="0"/>
 			<ChannelConfig numSampleIn="0" numSampleOut="0" numMidiIn="0" numMidiOut="1" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 			<Gui state="normal" hidden="true" generic="true">
@@ -29677,7 +29643,7 @@ turn of player
 			<Parameter id="-7" userMin="0" userMax="1" lockedForRandom="false" mutationFactor="0.1">1</Parameter>
 			<Parameter id="-2" userMin="0" userMax="2" lockedForRandom="false" mutationFactor="0.1">0.0</Parameter>
 		</Bidule>
-		<Bidule id="UID_1581713741" type="MidiInput_7" displayName="MIDISPORT 2x2 In A" processingMode="process">
+		<Bidule id="UID_1581713741" type="MidiInput_5" displayName="MIDISPORT 2x2 In A" processingMode="process">
 			<Geometry x="-26.5652" y="391.87" w="0" h="0"/>
 			<ChannelConfig numSampleIn="0" numSampleOut="0" numMidiIn="0" numMidiOut="1" numFreqIn="0" numFreqOut="0" numMagIn="0" numMagOut="0"/>
 			<Gui state="normal" hidden="true" generic="true">
@@ -29803,8 +29769,6 @@ turn of player
 		<Link producerId="UID_1286132698" producerChannel="1" listenerId="UID_1420910978" listenerChannel="1"/>
 		<Link producerId="UID_1420910978" producerChannel="0" listenerId="UID_1279723669" listenerChannel="0"/>
 		<Link producerId="UID_1420910978" producerChannel="1" listenerId="UID_1279723669" listenerChannel="1"/>
-		<Link producerId="UID_1286132698" producerChannel="1" listenerId="UID_1420910978" listenerChannel="9"/>
-		<Link producerId="UID_1286132698" producerChannel="0" listenerId="UID_1420910978" listenerChannel="8"/>
 		<Link producerId="UID_1421339903" producerChannel="0" listenerId="UID_1279753426" listenerChannel="2"/>
 		<Link producerId="UID_1421339903" producerChannel="0" listenerId="UID_1279753426" listenerChannel="3"/>
 		<Link producerId="UID_1423165449" producerChannel="0" listenerId="UID_1238784738" listenerChannel="2"/>
@@ -29900,13 +29864,12 @@ turn of player
 	</BiduleGroup>
 	<Automation id="Automation"/>
 	<ParameterLink producerId="UID_1238934918" producerParamId="0" listenerId="UID_1238934916" listenerParamId="6"/>
-	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="6"/>
-	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="197"/>
-	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="133"/>
-	<ParameterLink producerId="UID_1429999151" producerParamId="0" listenerId="UID_1429982398" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1277838716" producerParamId="0" listenerId="UID_1320182910" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1277838717" producerParamId="0" listenerId="UID_1279753449" listenerParamId="198"/>
 	<ParameterLink producerId="UID_1277838717" producerParamId="0" listenerId="UID_1279753449" listenerParamId="134"/>
+	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="6"/>
+	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="197"/>
+	<ParameterLink producerId="UID_1283541593" producerParamId="0" listenerId="UID_1279753449" listenerParamId="133"/>
 	<ParameterLink producerId="UID_1303066218" producerParamId="0" listenerId="UID_1303150567" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1303066221" producerParamId="0" listenerId="UID_1303322976" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1303066221" producerParamId="0" listenerId="UID_1303150567" listenerParamId="-2"/>
@@ -29920,138 +29883,138 @@ turn of player
 	<ParameterLink producerId="UID_1279723669" producerParamId="42" listenerId="UID_1039214642" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279723669" producerParamId="47" listenerId="UID_1303059710" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279723669" producerParamId="51" listenerId="UID_1318018470" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1429999151" producerParamId="0" listenerId="UID_1429982398" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1269282330" producerParamId="0" listenerId="UID_1258251644" listenerParamId="38"/>
-	<ParameterLink producerId="UID_1269282310" producerParamId="0" listenerId="UID_1258251644" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269282324" producerParamId="0" listenerId="UID_1258251644" listenerParamId="14"/>
+	<ParameterLink producerId="UID_1269282326" producerParamId="0" listenerId="UID_1258251644" listenerParamId="26"/>
+	<ParameterLink producerId="UID_1269282328" producerParamId="0" listenerId="UID_1258251644" listenerParamId="41"/>
+	<ParameterLink producerId="UID_1269282308" producerParamId="0" listenerId="UID_1258251644" listenerParamId="11"/>
 	<ParameterLink producerId="UID_1238784697" producerParamId="-2" listenerId="UID_1280511856" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1258251644" listenerParamId="10"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1303319643" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1269282304" producerParamId="0" listenerId="UID_1318078098" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1269282308" producerParamId="0" listenerId="UID_1258251644" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1269282326" producerParamId="0" listenerId="UID_1258251644" listenerParamId="26"/>
-	<ParameterLink producerId="UID_1269282328" producerParamId="0" listenerId="UID_1258251644" listenerParamId="41"/>
+	<ParameterLink producerId="UID_1269282310" producerParamId="0" listenerId="UID_1258251644" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1269282320" producerParamId="0" listenerId="UID_1258251644" listenerParamId="24"/>
-	<ParameterLink producerId="UID_1269282332" producerParamId="0" listenerId="UID_1258251644" listenerParamId="28"/>
-	<ParameterLink producerId="UID_1269282382" producerParamId="0" listenerId="UID_1238700758" listenerParamId="5"/>
-	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700758" listenerParamId="4"/>
-	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700756" listenerParamId="475"/>
-	<ParameterLink producerId="UID_1269282406" producerParamId="0" listenerId="UID_1238700758" listenerParamId="11"/>
-	<ParameterLink producerId="UID_1269427674" producerParamId="0" listenerId="UID_1269427660" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1280511873" producerParamId="0" listenerId="UID_1279753482" listenerParamId="51"/>
-	<ParameterLink producerId="UID_1192654498" producerParamId="-2" listenerId="UID_1303322984" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1269282324" producerParamId="0" listenerId="UID_1258251644" listenerParamId="14"/>
 	<ParameterLink producerId="UID_1279834758" producerParamId="1" listenerId="UID_1241983328" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059664" producerParamId="1" listenerId="UID_1468623307" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501541569" producerParamId="-2" listenerId="UID_1280511871" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1279755178" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1501541569" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059645" producerParamId="1" listenerId="UID_1501281388" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279753451" producerParamId="57" listenerId="UID_1248437721" listenerParamId="-8"/>
 	<ParameterLink producerId="UID_1279834779" producerParamId="1" listenerId="UID_1241993924" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1251461343" producerParamId="1" listenerId="UID_1238859967" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1254952257" producerParamId="-2" listenerId="UID_1248437721" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279834756" producerParamId="0" listenerId="UID_1279834758" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1279834747" producerParamId="0" listenerId="UID_1317408592" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279755179" producerParamId="0" listenerId="UID_1254011200" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279755180" producerParamId="0" listenerId="UID_1251409744" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541569" producerParamId="-2" listenerId="UID_1280511871" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1269282382" producerParamId="0" listenerId="UID_1238700758" listenerParamId="5"/>
+	<ParameterLink producerId="UID_1269427674" producerParamId="0" listenerId="UID_1269427660" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1269282332" producerParamId="0" listenerId="UID_1258251644" listenerParamId="28"/>
+	<ParameterLink producerId="UID_1269282406" producerParamId="0" listenerId="UID_1238700758" listenerParamId="11"/>
+	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700758" listenerParamId="4"/>
+	<ParameterLink producerId="UID_1269282378" producerParamId="0" listenerId="UID_1238700756" listenerParamId="475"/>
+	<ParameterLink producerId="UID_1280511873" producerParamId="0" listenerId="UID_1279753482" listenerParamId="51"/>
 	<ParameterLink producerId="UID_1279755181" producerParamId="0" listenerId="UID_1251409745" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1279834776" producerParamId="0" listenerId="UID_1279834779" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1318078092" producerParamId="0" listenerId="UID_1318078098" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279755180" producerParamId="0" listenerId="UID_1251409744" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279755179" producerParamId="0" listenerId="UID_1254011200" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279834747" producerParamId="0" listenerId="UID_1317408592" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279834756" producerParamId="0" listenerId="UID_1279834758" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1318078096" producerParamId="0" listenerId="UID_1318078099" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501541595" producerParamId="0" listenerId="UID_1501543394" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1318078092" producerParamId="0" listenerId="UID_1318078098" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1501541593" producerParamId="0" listenerId="UID_1501543402" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1501541597" producerParamId="0" listenerId="UID_1501541581" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1501541589" producerParamId="0" listenerId="UID_1501541583" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1501541589" producerParamId="0" listenerId="UID_1581713740" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1279961684" producerParamId="0" listenerId="UID_1279961647" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1286573974" producerParamId="0" listenerId="UID_1238784727" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1318078102" producerParamId="0" listenerId="UID_1318078108" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541595" producerParamId="0" listenerId="UID_1501543394" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1501541597" producerParamId="0" listenerId="UID_1501541581" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1318078106" producerParamId="0" listenerId="UID_1256389626" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1469059640" producerParamId="0" listenerId="UID_1469059664" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1318078102" producerParamId="0" listenerId="UID_1318078108" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1254952257" producerParamId="-2" listenerId="UID_1248437721" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1192654498" producerParamId="-2" listenerId="UID_1303322984" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1279755178" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279961647" producerParamId="1" listenerId="UID_1501541569" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1199546462" producerParamId="1" listenerId="UID_1238700758" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1469059664" producerParamId="1" listenerId="UID_1468623307" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1251461343" producerParamId="1" listenerId="UID_1238859967" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1469059645" producerParamId="1" listenerId="UID_1501281388" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1286573974" producerParamId="0" listenerId="UID_1238784727" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1279961684" producerParamId="0" listenerId="UID_1279961647" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1469059642" producerParamId="0" listenerId="UID_1469059645" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1469059640" producerParamId="0" listenerId="UID_1469059664" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1501438515" producerParamId="0" listenerId="UID_1251461343" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1238859967" producerParamId="-2" listenerId="UID_1303322980" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1199546462" producerParamId="1" listenerId="UID_1238700758" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1217858082" producerParamId="-5" listenerId="UID_1217858080" listenerParamId="-5"/>
 	<ParameterLink producerId="UID_1217857825" producerParamId="0" listenerId="UID_1217857649" listenerParamId="-5"/>
 	<ParameterLink producerId="UID_1217857910" producerParamId="0" listenerId="UID_1217857985" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1217857995" producerParamId="0" listenerId="UID_1217857991" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1217857997" producerParamId="0" listenerId="UID_1217857993" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1217858082" producerParamId="-5" listenerId="UID_1217858080" listenerParamId="-5"/>
 	<ParameterLink producerId="UID_1217858200" producerParamId="0" listenerId="UID_1217858159" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1217858507" producerParamId="-5" listenerId="UID_1217858509" listenerParamId="-5"/>
-	<ParameterLink producerId="UID_1218312395" producerParamId="0" listenerId="UID_1217858267" listenerParamId="14"/>
 	<ParameterLink producerId="UID_1218312376" producerParamId="0" listenerId="UID_1217858247" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795990" producerParamId="0" listenerId="UID_1403986669" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1258251666" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1403986686" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1258251685" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1403986688" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1547478173" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1289425457" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056361" producerParamId="1" listenerId="UID_1239056175" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056323" producerParamId="1" listenerId="UID_1217857626" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056380" producerParamId="1" listenerId="UID_1239056174" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1239056190" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1581721437" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1239056342" producerParamId="1" listenerId="UID_1547478176" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986666" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986684" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986662" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986688" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1218312395" producerParamId="0" listenerId="UID_1217858267" listenerParamId="14"/>
 	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986664" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1258251666" producerParamId="1" listenerId="UID_1403986686" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986657" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986683" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986662" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1258251685" producerParamId="1" listenerId="UID_1403986688" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056361" producerParamId="1" listenerId="UID_1239056175" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056342" producerParamId="1" listenerId="UID_1547478176" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1239056190" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1239056190" producerParamId="1" listenerId="UID_1581721437" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056380" producerParamId="1" listenerId="UID_1239056174" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986666" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1258251647" producerParamId="1" listenerId="UID_1403986684" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1547478173" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056209" producerParamId="1" listenerId="UID_1289425457" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1239056323" producerParamId="1" listenerId="UID_1217857626" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986658" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1280077826" producerParamId="1" listenerId="UID_1403986690" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1316970543" producerParamId="1" listenerId="UID_1546513559" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1280077845" producerParamId="1" listenerId="UID_1251409742" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986660" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1280077883" producerParamId="1" listenerId="UID_1403986692" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970543" producerParamId="1" listenerId="UID_1546513559" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1280077826" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1403986690" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796025" producerParamId="0" listenerId="UID_1403986668" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796027" producerParamId="0" listenerId="UID_1239056209" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1258251647" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1403986684" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1280077883" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1403986692" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1316970561" producerParamId="0" listenerId="UID_1316970543" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796035" producerParamId="0" listenerId="UID_1239056380" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796045" producerParamId="0" listenerId="UID_1199546462" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796033" producerParamId="0" listenerId="UID_1239056361" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796039" producerParamId="0" listenerId="UID_1239056323" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796037" producerParamId="0" listenerId="UID_1239056342" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796043" producerParamId="0" listenerId="UID_1239056190" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1280077864" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1403986683" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1281796031" producerParamId="0" listenerId="UID_1280077845" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819592" producerParamId="0" listenerId="UID_1368819626" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819598" producerParamId="-2" listenerId="UID_1368819652" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819598" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368819624" producerParamId="0" listenerId="UID_1368819592" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1368819658" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1368807071" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986657" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1280077864" producerParamId="1" listenerId="UID_1403986683" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1382481419" producerParamId="0" listenerId="UID_1382481453" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1382481451" producerParamId="0" listenerId="UID_1382481419" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986660" producerParamId="0" listenerId="UID_1258164975" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1382481425" producerParamId="-2" listenerId="UID_1368807066" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1382481425" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1382481419" producerParamId="0" listenerId="UID_1382481453" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1403986666" producerParamId="0" listenerId="UID_1546513561" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1403986664" producerParamId="0" listenerId="UID_1547478169" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403979941" producerParamId="0" listenerId="UID_1396475291" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986662" producerParamId="0" listenerId="UID_1258251644" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1403986657" producerParamId="0" listenerId="UID_1546513562" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1403986660" producerParamId="0" listenerId="UID_1258164975" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1403986658" producerParamId="0" listenerId="UID_1239056188" listenerParamId="-2"/>
-	<ParameterLink producerId="UID_1581721484" producerParamId="0" listenerId="UID_1581721518" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1581721516" producerParamId="0" listenerId="UID_1581721484" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986662" producerParamId="0" listenerId="UID_1258251644" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403986666" producerParamId="0" listenerId="UID_1546513561" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1403979941" producerParamId="0" listenerId="UID_1396475291" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796031" producerParamId="0" listenerId="UID_1280077845" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796027" producerParamId="0" listenerId="UID_1239056209" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796043" producerParamId="0" listenerId="UID_1239056190" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796033" producerParamId="0" listenerId="UID_1239056361" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1280077826" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796016" producerParamId="0" listenerId="UID_1403986690" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796035" producerParamId="0" listenerId="UID_1239056380" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796039" producerParamId="0" listenerId="UID_1239056323" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1258251647" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796000" producerParamId="0" listenerId="UID_1403986684" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281795990" producerParamId="0" listenerId="UID_1403986669" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1258251666" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795998" producerParamId="0" listenerId="UID_1403986686" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1280077864" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796012" producerParamId="0" listenerId="UID_1403986683" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1280077883" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796020" producerParamId="0" listenerId="UID_1403986692" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1258251685" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281795996" producerParamId="0" listenerId="UID_1403986688" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796025" producerParamId="0" listenerId="UID_1403986668" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1281796037" producerParamId="0" listenerId="UID_1239056342" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1281796045" producerParamId="0" listenerId="UID_1199546462" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1316970561" producerParamId="0" listenerId="UID_1316970543" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819624" producerParamId="0" listenerId="UID_1368819592" listenerParamId="-2"/>
+	<ParameterLink producerId="UID_1368819598" producerParamId="-2" listenerId="UID_1368819652" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819598" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819592" producerParamId="0" listenerId="UID_1368819626" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368819658" producerParamId="0" listenerId="UID_1368819592" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1368807071" producerParamId="0" listenerId="UID_1382481419" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721490" producerParamId="-2" listenerId="UID_1581721544" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721490" producerParamId="0" listenerId="UID_1581721484" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1581721484" producerParamId="0" listenerId="UID_1581721518" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1581721516" producerParamId="0" listenerId="UID_1581721484" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1581721550" producerParamId="0" listenerId="UID_1581721484" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721668" producerParamId="0" listenerId="UID_1581721700" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721700" producerParamId="0" listenerId="UID_1581721734" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721706" producerParamId="-2" listenerId="UID_1581721662" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1581721706" producerParamId="0" listenerId="UID_1581721700" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1581721732" producerParamId="0" listenerId="UID_1581721700" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1396475291" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1316970535" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1303150567" listenerParamId="0"/>
@@ -30059,6 +30022,7 @@ turn of player
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1238884702" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1480619520" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1403289773" producerParamId="0" listenerId="UID_1581813632" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1581721732" producerParamId="0" listenerId="UID_1581721700" listenerParamId="-2"/>
 	<ParameterLink producerId="UID_1358684047" producerParamId="1664" listenerId="UID_1468623307" listenerParamId="4"/>
 	<ParameterLink producerId="UID_1358684047" producerParamId="1665" listenerId="UID_1502143299" listenerParamId="0"/>
 	<ParameterLink producerId="UID_1358684047" producerParamId="1666" listenerId="UID_1238859967" listenerParamId="4"/>
@@ -30101,11 +30065,6 @@ turn of player
 	<ParameterLink producerId="UID_1358684047" producerParamId="1732" listenerId="UID_1581721437" listenerParamId="12"/>
 	<ParameterLink producerId="UID_1358684047" producerParamId="1734" listenerId="UID_1277838716" listenerParamId="2"/>
 	<ParameterLink producerId="UID_1358684047" producerParamId="1735" listenerId="UID_1277838716" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="141" listenerId="UID_1248437719" listenerParamId="3"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="145" listenerId="UID_1248437719" listenerParamId="5"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="910" listenerId="UID_1248437719" listenerParamId="0"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="916" listenerId="UID_1581813632" listenerParamId="1"/>
-	<ParameterLink producerId="UID_1361031211" producerParamId="1039" listenerId="UID_1248437719" listenerParamId="2"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="1" listenerId="UID_1581813632" listenerParamId="4"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="74" listenerId="UID_1238784738" listenerParamId="3"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="75" listenerId="UID_1238784738" listenerParamId="7"/>
@@ -30164,6 +30123,11 @@ turn of player
 	<ParameterLink producerId="UID_1430997895" producerParamId="1131" listenerId="UID_1279724772" listenerParamId="10"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="1132" listenerId="UID_1238700758" listenerParamId="106"/>
 	<ParameterLink producerId="UID_1430997895" producerParamId="1132" listenerId="UID_1279724772" listenerParamId="11"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="141" listenerId="UID_1248437719" listenerParamId="3"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="145" listenerId="UID_1248437719" listenerParamId="5"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="910" listenerId="UID_1248437719" listenerParamId="0"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="916" listenerId="UID_1581813632" listenerParamId="1"/>
+	<ParameterLink producerId="UID_1361031211" producerParamId="1039" listenerId="UID_1248437719" listenerParamId="2"/>
 	<SyncLink source="UID_1238934916" destination="UID_1227630986"/>
 	<SyncLink source="UID_1238934916" destination="UID_1227630979"/>
 	<SyncLink source="UID_1238934916" destination="UID_1238700756"/>
